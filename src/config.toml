@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "EcoQuants"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -22,6 +22,7 @@ publishDir = ".."
     url = "https://twitter.com/rstudio"
 
 [params]
+    brand = "EcoQuants"
     description = "A website built through Hugo and blogdown."
 
     # options for highlight.js (version, additional languages, and theme)

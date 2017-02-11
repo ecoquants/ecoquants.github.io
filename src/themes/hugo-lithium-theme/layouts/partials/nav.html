@@ -5,6 +5,8 @@
          height="{{ .Site.Params.logo.height }}"
          alt="{{ .Site.Params.logo.alt }}">
   </a>
+  
+  <a class="nav-brand" href="{{ .Site.BaseURL }}">{{ .Site.Params.brand }}</a>
 
   <ul class="nav-links">
     {{ range .Site.Menus.main }}
