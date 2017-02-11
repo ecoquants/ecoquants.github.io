@@ -40,6 +40,7 @@ publishDir = ".."
 setwd('src'); serve_site()
 new_post("Post Title", rmd = FALSE)
 new_content('projects/test.Rmd')
+new_content('index.Rmd')
 ```
 
 ## Header
@@ -96,6 +97,11 @@ setwd('src'); serve_site()
 build_site()
 
 # install theme
+library(blogdown)
+install_theme("yihui/hugo-lithium-theme")
+
+install_theme("yihui/hugo-lithium-theme")
+
 blogdown::install_theme('saey55/hugo-elate-theme')
 #blogdown::install_theme('christianmendoza/hugo-smpl-theme')
 #blogdown::install_theme('kakawait/hugo-tranquilpeak-theme')
