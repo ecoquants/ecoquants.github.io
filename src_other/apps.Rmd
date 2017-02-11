@@ -29,7 +29,7 @@ r = 50     # resize, percent -> 248 × 186 pixels; want 470×330
 #d = 2      # delay, seconds
 redo = F
 
-apps = read_csv('data/apps.csv') %>%
+apps = read_csv('apps.csv') %>%
   mutate(
     png = sprintf('images/app_%s.png', short))
 

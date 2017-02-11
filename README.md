@@ -15,7 +15,10 @@ blogdown::install_hugo()
 library(blogdown)
 
 # create a new site with default theme
-blogdown::new_site('.')
+#blogdown::new_site('.')
+new_site(
+  dir="./src", install_hugo=T, format = "toml", 
+  sample=T, theme = "yihui/hugo-lithium-theme", theme_example=T, serve=F)
 ```
 
 ## Configure Publishing with Github
@@ -29,8 +32,36 @@ Because of this fact for organization page (`*.github.io`), must overlap source 
 `config.toml`:
 
 ```
-publishDir = "."
+#publishDir = "."
+publishDir = ".."
 ```
+
+```r
+setwd('src'); serve_site()
+new_content('projects/test.Rmd')
+```
+
+## Header
+
+```r
+library(leaflet)
+leaflet() %>%
+  addTiles()
+```
+
+```r
+serve_site()
+```
+
+
+
+
+post(title, kind = "default", open = interactive(), 
+    author = getOption("blogdown.author"), categories = NULL, 
+    tags = NULL, date = Sys.Date(), file = NULL, subdir = getOption("blogdown.subdir"), 
+    rmd = getOption("blogdown.use.rmd", FALSE))
+```
+
 
 The special blogdown / hugo folders and files are:
 
@@ -54,6 +85,10 @@ touch .nojekyll
 ## Use Different Theme
 
 ```r
+setwd('src'); serve_site()
+
+build_site()
+
 # install theme
 blogdown::install_theme('saey55/hugo-elate-theme')
 #blogdown::install_theme('christianmendoza/hugo-smpl-theme')
