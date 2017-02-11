@@ -38,6 +38,7 @@ publishDir = ".."
 
 ```r
 setwd('src'); serve_site()
+new_post("Post Title", rmd = FALSE)
 new_content('projects/test.Rmd')
 ```
 
@@ -53,8 +54,13 @@ leaflet() %>%
 serve_site()
 ```
 
+For referencing figures in Rmd, see example [rstudio/blogdown - inst/resources/2015-07-23-r-rmarkdown.Rmd](https://raw.githubusercontent.com/rstudio/blogdown/35dc95a3896ca23fa7dfa0a38044a3c9e9714ce1/inst/resources/2015-07-23-r-rmarkdown.Rmd) like so:
 
+```
+You can also embed plots. See Figure \@ref(fig:pie) for example:
 
+``{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+```
 
 post(title, kind = "default", open = interactive(), 
     author = getOption("blogdown.author"), categories = NULL, 
