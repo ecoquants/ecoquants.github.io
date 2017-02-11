@@ -24,6 +24,38 @@ blogdown::install_theme('saey55/hugo-elate-theme')
 #blogdown::install_theme('jpescador/hugo-future-imperfect')
 ```
 
+## Configure Publishing with Github
+
+[Configuring a publishing source for GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/):
+
+> If your site is a User or Organization Page that has a repository named <username>.github.io or <orgname>.github.io, you cannot publish your site's source files from different locations. User and Organization Pages that have this type of repository name are only published from the master branch.
+
+Because of this fact for organization page (`*.github.io`), must overlap source content with published content like so:
+
+`config.toml`:
+
+```
+publishDir = "."
+```
+
+The special blogdown / hugo folders and files are:
+
+```
+archetypes/
+blogdown/
+config.toml
+content/
+data/
+layouts/
+static/
+themes/
+```
+
+## Turn off Jekyll
+
+```bash
+touch .nojekyll
+```
 ## Edit
 
 ```r
@@ -37,4 +69,5 @@ blogdown::serve_site()
 #To stop the server, restart your R session or
 servr::daemon_stop("4333969472")
 ```
+
 
