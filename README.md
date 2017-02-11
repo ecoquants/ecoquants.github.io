@@ -14,14 +14,8 @@ devtools::install_github('rstudio/blogdown')
 blogdown::install_hugo()
 library(blogdown)
 
-# create a new site
+# create a new site with default theme
 blogdown::new_site('.')
-
-# install theme
-blogdown::install_theme('saey55/hugo-elate-theme')
-#blogdown::install_theme('christianmendoza/hugo-smpl-theme')
-#blogdown::install_theme('kakawait/hugo-tranquilpeak-theme')
-#blogdown::install_theme('jpescador/hugo-future-imperfect')
 ```
 
 ## Configure Publishing with Github
@@ -56,6 +50,20 @@ themes/
 ```bash
 touch .nojekyll
 ```
+
+## Use Different Theme
+
+```r
+# install theme
+blogdown::install_theme('saey55/hugo-elate-theme')
+#blogdown::install_theme('christianmendoza/hugo-smpl-theme')
+#blogdown::install_theme('kakawait/hugo-tranquilpeak-theme')
+#blogdown::install_theme('jpescador/hugo-future-imperfect')
+
+# build site
+blogdown::build_site()
+```
+
 ## Edit
 
 ```r
