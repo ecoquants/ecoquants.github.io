@@ -75,7 +75,7 @@ options(servr.daemon = TRUE)
 blogdown::serve_site()
 
 #To stop the server, restart your R session or
-servr::daemon_stop("4333969472")
+servr::daemon_stop("4373619856")
 ```
 
 

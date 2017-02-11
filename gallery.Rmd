@@ -18,21 +18,27 @@ Applications:
 library(tidyverse)
 library(webshot)
 
-z = 0.5    # zoom
-r = 50     # resize, percent -> 248 × 209 pixels
+#w = 992
+#h = 744
+#w = 470
+#h = 330
+w = 940
+h = 660
+z = 1    # zoom
+r = 50     # resize, percent -> 248 × 186 pixels; want 470×330
 #d = 2      # delay, seconds
 redo = F
 
 apps = read_csv('data/apps.csv') %>%
   mutate(
-    png = sprintf('img/app_%s.png', short))
+    png = sprintf('images/app_%s.png', short))
 
 for (i in 1:nrow(apps)){
   a = apps[i,]
   if ((!file.exists(a$png) | redo) & a$publish){
     switch(a$do,
     url_tmp = 
-      webshot(a$url_tmp, a$png, zoom=z, delay=a$delay_secs) %>%
+      webshot(a$url_tmp, a$png, zoom=z, delay=a$delay_secs, vwidth=w, vheight=h) %>%
         resize(paste0(r,'%')) %>%
         shrink(),
     url = 
