@@ -1,0 +1,50 @@
+---
+title: "gallery"
+author: "Ben Best"
+date: "February 10, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE) 
+```
+
+[Screenshots of Shiny applications](https://github.com/wch/webshot#screenshots-of-shiny-applications)
+
+Applications:
+* [https://ecoquants.shinyapps.io/edna-vis/](https://ecoquants.shinyapps.io/edna-vis/)
+* [New Tab](http://ohi-science.nceas.ucsb.edu/ohi-global)
+```{r}
+library(tidyverse)
+library(webshot)
+
+z = 0.5    # zoom
+r = 50     # resize, percent -> 248 × 209 pixels
+#d = 2      # delay, seconds
+redo = F
+
+apps = read_csv('data/apps.csv') %>%
+  mutate(
+    png = sprintf('img/app_%s.png', short))
+
+for (i in 1:nrow(apps)){
+  a = apps[i,]
+  if ((!file.exists(a$png) | redo) & a$publish){
+    switch(a$do,
+    url_tmp = 
+      webshot(a$url_tmp, a$png, zoom=z, delay=a$delay_secs) %>%
+        resize(paste0(r,'%')) %>%
+        shrink(),
+    url = 
+      webshot(a$url_shiny, a$png, zoom=z, delay=a$delay_secs) %>%
+        resize(paste0(r,'%')) %>%
+        shrink(),
+    dir = 
+      appshot(a$dir_shiny, a$png, zoom=z, delay=10) %>%
+        resize(paste0(r,'%')) %>%
+        shrink())
+  }
+}
+```
+
+
