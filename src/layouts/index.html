@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  BANNER HERE
+  
+  <h2>Projects</h2>
+  
+  <div class="row">
+
+    <div class="col-sm-6">
+    <!--div class="card" style="width: 20rem;"-->
+    <div class="card">
+    <img class="card-img-top" src="images/app_ohi-global.png" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+    </div>
+    </div>
+    
+    <div class="col-sm-6">
+    <!--div class="card" style="width: 20rem;"-->
+    <div class="card">
+    <img class="card-img-top" src="images/app_edna.png" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+    </div>
+    </div>
+    
+  </div>
+
+  <div class="archive">
+    {{ range (where .Site.Pages "Type" "post").GroupByDate "2006" }}
+    <h2 class="archive-title">{{ .Key }}</h2>
+    {{ range .Pages }}
+    <article class="archive-item">
+      <a href="{{ .Permalink }}" class="archive-item-link">{{ .Title }}</a>
+      <span class="archive-item-date">
+        {{ .Date.Format "January 2, 2006" }}
+      </span>
+    </article>
+    {{ end }}
+    {{ end }}
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

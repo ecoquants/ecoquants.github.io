@@ -96,11 +96,11 @@ setwd('src'); serve_site()
 
 build_site()
 
+
 # install theme
 library(blogdown)
 install_theme("yihui/hugo-lithium-theme")
-
-install_theme("yihui/hugo-lithium-theme")
+# delete 
 
 blogdown::install_theme('saey55/hugo-elate-theme')
 #blogdown::install_theme('christianmendoza/hugo-smpl-theme')
