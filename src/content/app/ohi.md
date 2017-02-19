@@ -3,7 +3,7 @@ app_link: http://ohi-science.nceas.ucsb.edu/ohi-global/
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "Ocean Health Index (OHI)"
+description: "Developed for Ocean Health Index (OHI; housed at NCEAS) to explore the many dimensions of sustainable ocean indices."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -15,6 +15,4 @@ tags:
 title: OHI Explorer
 ---
 
-This article presents a social-organizational approach to explaining empirical variation in rates of altruism. The efforts of organizations are mostly responsible for much of the altruism seen today, and the substance of these efforts varies. Although research from social psychology and organizational studies suggests that altruistic action is sensitive to social context, the link between individual and organizational aspects of altruism has not been clearly articulated. In particular, our knowledge of “one-shot,” organizationally managed altruism is limited. I suggest that the factors of organizational resources, scope, and persistence are likely to generate higher rates of individual altruism in the absence of long-term relationships that encourage giving behavior. The approach is
-applied to the case of cadaveric organ procurement in the United States. The analysis highlights the central role of organ procurement organizations (OPOs). Quantitative analysis of OPO procurement rates shows that, while demographic characteristics are important, OPO resources and scope are important predictors of procurement. The findings strongly suggest that the ability of organizations to produce contexts for giving explains a substantial amount of variation in rates of one-shot altruism.
- 
+The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.

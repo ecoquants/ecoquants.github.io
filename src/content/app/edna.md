@@ -3,7 +3,7 @@ app_link: https://ecoquants.shinyapps.io/edna-vis/
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: ""
+description: "Developed for Marine Biodiversity Observation Network (MBON; sponsored by NOAA & NASA) to explore environmental DNA in space and time."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -15,5 +15,5 @@ tags:
 title: eDNA Explorer
 ---
 
-The eDNA Explorer...
+The eDNA Explorer enables exploration in time, space and taxa.
 
