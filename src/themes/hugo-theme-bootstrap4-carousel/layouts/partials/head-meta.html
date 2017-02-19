@@ -1,0 +1,38 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+{{ partial "opengraph.html" . }}
+{{ partial "twitter_cards.html" . }}
+
+{{- with .Site.Params.google_verify_meta -}}
+<meta name="google-site-verification" content="{{ . }}" />
+{{ end }}
+
+{{- with .Site.Params.bing_verify_meta -}}
+<meta name="msvalidate.01" content="{{ . }}" />
+{{ end }}
+
+{{- with .Site.Params.yandex_verify_meta -}}
+<meta name="yandex-verification" content="{{ . }}" />
+{{ end }}
+
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" integrity="{{ .Site.Data.sri.bootstrapcss }}" crossorigin="anonymous">
+<script src="{{ .Site.BaseURL }}js/jquery.slim.min.js" integrity="{{ .Site.Data.sri.jqueryjs }}" crossorigin="anonymous"></script>
+<script src="{{ .Site.BaseURL }}js/tether.min.js" integrity="{{ .Site.Data.sri.teatherjs }}" crossorigin="anonymous"></script>
+<script src="{{ .Site.BaseURL }}js/bootstrap.min.js" integrity="{{ .Site.Data.sri.bootstrapjs }}" crossorigin="anonymous" async></script>
+<link href="{{ .Site.BaseURL }}css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<link href="{{ .Site.BaseURL }}css/carousel.css" rel="stylesheet" type="text/css">
+<link href="{{ .Site.BaseURL }}css/blog.css" rel="stylesheet" type="text/css">
+
+<!-- http://realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2b5797">
+<meta name="theme-color" content="#ffffff">
+
+{{- .Hugo.Generator -}}
+
+{{- /* vim: set ts=2 sw=2 et: */}}

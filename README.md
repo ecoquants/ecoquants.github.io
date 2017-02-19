@@ -3,11 +3,17 @@
 Public website for EcoQuants.com
 
 ## TODO
-- Search
+- apps: list view & carousel
+- Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
+- fix social media icons with circles
+  - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
 - info@ecoquants.com: Gmail setup
 - left navigation w/ ToC
 - contact form & page w/ iframe Google Map (stylized b&w?)
-
+- icon effects, eg on hover: 
+  - [Font Awesome Animation](http://l-lin.github.io/font-awesome-animation/)
+  - [Change Font Awesome Icon on Hover | Telegraphics, Inc. | Telegraphics Inc.](http://www.telegraphicsinc.com/2014/04/change-font-awesome-icon-on-hover/)
+  - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
 - visit newer features in [forks of alanorth/hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog/network/members): search, bootstrap_v4-alpha-0.6 update,...
 - [Using Bootstrap 4 from source with React and nwb](https://medium.com/@jbscript/using-bootstrap-4-from-source-with-react-and-nwb-f26caf395952#.4yh7xdfoj): use only bits of Bootstrap needed
 - [Tutorial: Creating an NPM-driven Website | Tutorialzine](http://tutorialzine.com/2015/03/npm-driven-website/): create website w/ bootstrap, google map, save locations
@@ -19,9 +25,9 @@ Public website for EcoQuants.com
 
 ## TODO: Effects, later
 
-- [digitalcraftsman/hugo-agency-theme: Port of Startbootstrap's Agency theme to Hugo](https://github.com/digitalcraftsman/hugo-agency-theme)
-- [Cover - Responsive Multipurpose Template - Live Preview - WrapBootstrap](http://wrapbootstrap.com/preview/WB05R798T)
-- [Hugo Theme: Elate](http://themes.gohugo.io/hugo-elate-theme/)
+- [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme): Port of Startbootstrap's Agency theme to Hugo
+- [Cover](http://wrapbootstrap.com/preview/WB05R798T): Responsive Multipurpose Template - Live Preview - WrapBootstrap
+- [Elate](http://themes.gohugo.io/hugo-elate-theme/)
 
 ## Done
 
