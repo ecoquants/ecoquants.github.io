@@ -2,9 +2,73 @@
 
 Public website for EcoQuants.com
 
+## TODO
+- Search
+- info@ecoquants.com: Gmail setup
+- left navigation w/ ToC
+- contact form & page w/ iframe Google Map (stylized b&w?)
+
+- visit newer features in [forks of alanorth/hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog/network/members): search, bootstrap_v4-alpha-0.6 update,...
+- [Using Bootstrap 4 from source with React and nwb](https://medium.com/@jbscript/using-bootstrap-4-from-source-with-react-and-nwb-f26caf395952#.4yh7xdfoj): use only bits of Bootstrap needed
+- [Tutorial: Creating an NPM-driven Website | Tutorialzine](http://tutorialzine.com/2015/03/npm-driven-website/): create website w/ bootstrap, google map, save locations
+
+- navbar
+  - dropdown menu autopopulate like [navbars example](http://v4-alpha.getbootstrap.com/examples/navbars/)
+
+- carousel: 1080 x 576
+
+## TODO: Effects, later
+
+- [digitalcraftsman/hugo-agency-theme: Port of Startbootstrap's Agency theme to Hugo](https://github.com/digitalcraftsman/hugo-agency-theme)
+- [Cover - Responsive Multipurpose Template - Live Preview - WrapBootstrap](http://wrapbootstrap.com/preview/WB05R798T)
+- [Hugo Theme: Elate](http://themes.gohugo.io/hugo-elate-theme/)
+
+## Done
+
+- favicon generated via http://realfavicongenerator.net
+
+## Edit Bootstrap CSS
+
+To edit bootstrap components: `/path/to/site/hugo-theme-bootstrap4-carousel/source/scss/bootstrap.scss`.
+
+### Getting started
+
+- Open a new terminal and go in to the theme's directory : `cd /path/to/site/themes/hugo-theme-bootstrap4-carousel`
+- Install dependencies with npm : `npm i`
+- Build static files : `npm run build`
+
+```
+Rendering Complete, saving .css file...
+Wrote CSS to /Users/bbest/github/ecoquants.github.io/src/themes/hugo-theme-bootstrap4-carousel/static/css/style.css.tmp
+```
+
+### Code
+
+Please do not edit the `theme.css`, `theme.min.css`, `theme.js` or `theme.min.js` files directly. Prefer working on source 
+files and use the `npm run watch` command to automatically rebuild on edit.
+
+### Still sorting
+
+[Bootstrap 4 Tutorial: Working with npm, Grunt.js and Sass (Part 1) - Designmodo](https://designmodo.com/bootstrap-4-npm-grunt-sass/)
+
+Using Grunt.js with npm
+
+If you are a Front-end developer you might have work with the following tasks manually:
+
+- Concatenate all of your JS and CSS files together for production
+- Compress/minify CSS, JS and image file sizes
+- Use Sass and compile in .css format
+- Install necessary tools for website development
+
+```bash
+npm install -g grunt-cli
+```
+
 ## Creation
 
 Used [rstudio/blogdown](https://github.com/rstudio/blogdown): Create Blogs and Websites with R Markdown
+
+
 
 ## Initialize
 
@@ -19,7 +83,14 @@ library(blogdown)
 new_site(
   dir="./src", install_hugo=T, format = "toml", 
   sample=T, theme = "yihui/hugo-lithium-theme", theme_example=T, serve=F)
+  
+new_site(
+  dir="./src", install_hugo=T, format = "toml", 
+  sample=T, theme = "alanorth/hugo-theme-bootstrap4-blog", theme_example=T, serve=F) # 
 ```
+
+- `appernetic/hugo-bootstrap-premium`: nice newsletter subscription modal
+- `alanorth/hugo-theme-bootstrap4-blog`: bootstrap v4 with cards
 
 ## Configure Publishing with Github
 

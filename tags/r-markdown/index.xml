@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Markdown on EcoQuants</title>
+    <title>R Markdown on EcoQuants LLC</title>
     <link>/tags/r-markdown/index.xml</link>
-    <description>Recent content in R Markdown on EcoQuants</description>
+    <description>Recent content in R Markdown on EcoQuants LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
     <atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
+      <link>/2015/07/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <guid>/2015/07/hello-r-markdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;

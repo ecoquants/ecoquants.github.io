@@ -1,122 +1,234 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
+
   <head>
     <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Hugo 0.18.1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
-<title>R Markdown - EcoQuants</title>
-<meta property="og:title" content="R Markdown - EcoQuants">
+<meta property="og:title" content="R Markdown" />
+<meta property="og:description" content="A simple Hugo theme based on the Bootstrap v4 blog example." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/r-markdown/" />
 
 
 
+<meta property="og:updated_time" content="2015-07-23T21:13:14-05:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/bootstrap.min.css" integrity="" crossorigin="anonymous">
+<script src="/js/jquery.slim.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="/js/tether.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="/js/bootstrap.min.js" integrity="" crossorigin="anonymous" async></script>
+<link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<link href="/css/carousel.css" rel="stylesheet" type="text/css">
+<link href="/css/blog.css" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2b5797">
+<meta name="theme-color" content="#ffffff"><meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Blog",
   
+  "headline": "EcoQuants LLC",
+  "url" : "/tags/r-markdown/",
+  "author": {
+    "@type": "Person",
+    "name": "Ben Best"
+  },
+  
+  
+  "dateModified": "2015-07-23T21:13:14-05:00",
+  
+  
+  
+  "keywords": "development,golang,r,development,go,golang,hugo,plot,r-markdown,regression,templates,themes,"
+  
+  ,
+  "description":"A simple Hugo theme based on the Bootstrap v4 blog example."
+}
+</script>
 
 
+    <link rel="canonical" href="/tags/r-markdown/">
 
+    <title>EcoQuants LLC</title>
 
+    <!-- combined, minified CSS -->
+    
 
-<link href="../../tags/r-markdown/index.xml" rel="alternate" type="application/rss+xml" title="EcoQuants" />
+    
+    <!-- RSS 2.0 feed -->
+    <link href="/tags/r-markdown/index.xml" rel="alternate" type="application/rss+xml" title="EcoQuants LLC" />
+    
 
+    
 
+    
 
-<link rel="stylesheet" href="../../css/fonts.css" media="all">
-<link rel="stylesheet" href="../../css/main.css" media="all">
-
-
-<link rel="stylesheet" href="../../css/bootstrap-4.0.0-alpha.6.css" type='text/css'>
-<link rel="stylesheet" href="../../css/fonts.css" type='text/css'>
-<link rel="stylesheet" href="../../css/main.css" type='text/css'>
-
+    
 
   </head>
-  <body>
-    <div class="wrapper">
-      <header class="header">
-        <nav class="nav">
-  <a href="../../" class="nav-logo">
-    <img src="../../images/logo.png"
-         width="50"
-         height="50"
-         alt="Logo">
-  </a>
-  
-  <a class="nav-brand" href="../../">EcoQuants</a>
 
-  <ul class="nav-links">
+  <body>
+
+    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" 
+          data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+    <img src="/images/logo_EcoQuants_white.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    EcoQuants
+  </a>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item ">
+        <a class="nav-link" href="/">Home</a>
+      </li>
+      
+      
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/about">About</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/analysis">Analysis</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/apps">Apps</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/projects">Projects</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/train">Training</a>
+          </li>
+        
+      
+    </ul>
     
-    <li><a href="../../about/">About</a></li>
-    
-    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
-    
-    <li><a href="https://twitter.com/rstudio">Twitter</a></li>
-    
-  </ul>
+    <form class="form-inline mt-2 mt-md-0">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search">
+      <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
 </nav>
 
-      </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
 
 
-<main class="content" role="main">
+
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="/2015/07/hello-r-markdown/">Hello R Markdown</a></h2>
+    <p class="blog-post-meta"><time datetime="2015-07-23T21:13:14-05:00">Thu Jul 23, 2015</time> by Frida Gomam in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/r" rel="category tag">R</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/r-markdown" rel="tag">R Markdown</a>, <a href="/tags/plot" rel="tag">plot</a>, <a href="/tags/regression" rel="tag">regression</a>
+
+</p>
+  </header>
+  R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.
+  <a href='/2015/07/hello-r-markdown/'>Read more →</a>
+</article> 
+
+
+
+
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 offset-sm-1 blog-sidebar">
+  
 
   
-  <div class="archive">
-    
-    <h2 class="archive-title">2016</h2>
-    
-    <article class="archive-item">
-      <a href="../../2016/12/30/a-plain-markdown-post/" class="archive-item-link">A Plain Markdown Post</a>
-      <span class="archive-item-date">
-        December 30, 2016
-      </span>
-    </article>
-    
-    
-    <h2 class="archive-title">2015</h2>
-    
-    <article class="archive-item">
-      <a href="../../2015/07/23/hello-r-markdown/" class="archive-item-link">Hello R Markdown</a>
-      <span class="archive-item-date">
-        July 23, 2015
-      </span>
-    </article>
-    
-    <article class="archive-item">
-      <a href="../../2015/01/01/lorem-ipsum/" class="archive-item-link">Lorem Ipsum</a>
-      <span class="archive-item-date">
-        January 1, 2015
-      </span>
-    </article>
-    
-    
-  </div>
   
 
-</main>
+  <section class="sidebar-module">
+    <h4>Recent Posts</h4>
+    <ol class="list-unstyled">
+      
+      <li><a href="/2014/09/creating-a-new-theme/">Creating a New Theme</a></li>
+      
+      <li><a href="/2014/03/migrate-to-hugo-from-jekyll/">Migrate to Hugo from Jekyll</a></li>
+      
+      <li><a href="/2015/07/hello-r-markdown/">Hello R Markdown</a></li>
+      
+      <li><a href="/2014/04/hugo-template-primer/">(Hu)go Template Primer</a></li>
+      
+      <li><a href="/2014/04/getting-started-with-hugo/">Getting Started with Hugo</a></li>
+      
+    </ol>
+  </section>
 
-      <footer class="footer">
-        <ul class="footer-links">
-          <li>
-            <a href="../../index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
-          </li>
-          <li>
-            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="../../images/hugo-logo.png" width="22" height="22"></a>
-          </li>
-        </ul>
-      </footer>
+  
 
+  
+</aside>
+
+  
+      </div> <!-- /.row -->
+      
+    </div> <!-- /.container -->
+
+  <hr>
+  
+  <footer>
+  <div class="container marketing">
+    <div class="row">
+      <div class="col-lg-12">
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>© 2017 EcoQuants LLC</p>
+      </div>
     </div>
-    
-<script src="../../jss/jquery-3.1.1.slim.min.js"></script>
-<script src="../../jss/tether-1.4.0.min.js"></script>
-<script src="../../jss/bootstrap-4.0.0-alpha.6.min.js"></script>
-
-    
-
-    
-
-    
+    <div class="row">
+      <div class="col-lg-12" style="text-align:center">
+        <p><a href="https://www.google.com/maps/place/EcoQuants/@34.4222069,-119.6915738,17z/data=!3m1!4b1!4m5!3m4!1s0x80e913843e074e6f:0xa9b0e0630da5a784!8m2!3d34.4222025!4d-119.6893851">508 E Haley St, Santa Barbara, CA 93103</a><br>805-705-9770</br>ben@ecoquants.com</p>
+      </div>
+    </div>
+  </div>
+</footer>
+  
   </body>
-</html>
 
+</html>
