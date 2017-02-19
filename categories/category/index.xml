@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on EcoQuants LLC</title>
+    <link>/categories/category/index.xml</link>
+    <description>Recent content in Category on EcoQuants LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
+    <atom:link href="/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OHI Explorer</title>
+      <link>/app/ohi/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/ohi/</guid>
+      <description>&lt;p&gt;This article presents a social-organizational approach to explaining empirical variation in rates of altruism. The efforts of organizations are mostly responsible for much of the altruism seen today, and the substance of these efforts varies. Although research from social psychology and organizational studies suggests that altruistic action is sensitive to social context, the link between individual and organizational aspects of altruism has not been clearly articulated. In particular, our knowledge of “one-shot,” organizationally managed altruism is limited. I suggest that the factors of organizational resources, scope, and persistence are likely to generate higher rates of individual altruism in the absence of long-term relationships that encourage giving behavior. The approach is
+applied to the case of cadaveric organ procurement in the United States. The analysis highlights the central role of organ procurement organizations (OPOs). Quantitative analysis of OPO procurement rates shows that, while demographic characteristics are important, OPO resources and scope are important predictors of procurement. The findings strongly suggest that the ability of organizations to produce contexts for giving explains a substantial amount of variation in rates of one-shot altruism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eDNA Explorer</title>
+      <link>/app/edna/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/edna/</guid>
+      <description>&lt;p&gt;The eDNA Explorer&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

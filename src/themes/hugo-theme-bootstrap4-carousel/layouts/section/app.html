@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+  <h1>Apps</h1>
+  
+  <div class="row">
+  {{ range .Data.Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+  </div>
+
+{{ end }}

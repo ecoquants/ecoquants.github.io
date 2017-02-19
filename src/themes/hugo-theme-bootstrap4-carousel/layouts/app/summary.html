@@ -1,0 +1,13 @@
+  
+  <div class="col-sm-6">
+    <!--div class="card" style="width: 20rem;"-->
+    <div class="card">
+      <img class="card-img-top" src='{{ .Site.BaseURL | absLangURL }}{{ .Params.img_screen }}' alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">{{ .Title }}</h4>
+        <p class="card-text">{{ .Params.description }}</p>
+        <a href='{{ .Permalink }}' class="btn btn-primary">Info &raquo;</a>
+        <a href='{{ .Params.app_link }}' class="btn btn-primary">Live &raquo;</a>
+      </div>
+    </div>
+  </div>

@@ -37,7 +37,7 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
 
 [[menu.navbar]]
   name = "Apps"
-  url = "apps"
+  url = "app"
 
 [[menu.navbar]]
   name = "Projects"

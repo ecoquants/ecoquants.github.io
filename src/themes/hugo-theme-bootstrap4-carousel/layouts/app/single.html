@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+  <section id="main">
+  <div>
+    <h1 id="title">{{ .Title }}</h1>
+    {{ .Render "summary"}}
+    </div>
+    
+    {{ .Content }}
+  </section>
+
+{{ end }}
+

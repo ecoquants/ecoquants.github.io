@@ -24,6 +24,8 @@ library(webshot)
 #h = 330
 w = 940
 h = 660
+w = 1425
+h = 576
 z = 1    # zoom
 r = 50     # resize, percent -> 248 × 186 pixels; want 470×330
 #d = 2      # delay, seconds
@@ -31,7 +33,7 @@ redo = F
 
 apps = read_csv('apps.csv') %>%
   mutate(
-    png = sprintf('images/app_%s.png', short))
+    png = sprintf('images/app_%s_%dx%d.png', short, w, h))
 
 for (i in 1:nrow(apps)){
   a = apps[i,]

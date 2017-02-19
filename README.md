@@ -4,8 +4,15 @@ Public website for EcoQuants.com
 
 ## TODO
 - apps: list view & carousel
+  - 
+  
+```bash
+cd ~/github/ecoquants.github.io/src
+hugo new -f 'yaml' -k app apps/edna.md
+```
+  
 - Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
-- fix social media icons with circles
+- layouts/sharing-icons.html: fix social media icons with circles
   - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
 - info@ecoquants.com: Gmail setup
 - left navigation w/ ToC

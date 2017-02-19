@@ -12,6 +12,16 @@
   </url>
   
   <url>
+    <loc>/app/ohi/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/app/edna/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2015/07/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -27,11 +37,6 @@
   </url>
   
   <url>
-    <loc>/apps/ohi/</loc>
-    <lastmod>2004-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
@@ -40,13 +45,19 @@
   </url>
   
   <url>
-    <loc>/apps/</loc>
-    <lastmod>2004-05-20T00:00:00+00:00</lastmod>
+    <loc>/app/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/category/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,6 +134,18 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tag1/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tag2/</loc>
+    <lastmod>2017-02-18T20:47:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1290,6 +1290,27 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
+      <title>OHI Explorer</title>
+      <link>/app/ohi/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/ohi/</guid>
+      <description>&lt;p&gt;This article presents a social-organizational approach to explaining empirical variation in rates of altruism. The efforts of organizations are mostly responsible for much of the altruism seen today, and the substance of these efforts varies. Although research from social psychology and organizational studies suggests that altruistic action is sensitive to social context, the link between individual and organizational aspects of altruism has not been clearly articulated. In particular, our knowledge of “one-shot,” organizationally managed altruism is limited. I suggest that the factors of organizational resources, scope, and persistence are likely to generate higher rates of individual altruism in the absence of long-term relationships that encourage giving behavior. The approach is
+applied to the case of cadaveric organ procurement in the United States. The analysis highlights the central role of organ procurement organizations (OPOs). Quantitative analysis of OPO procurement rates shows that, while demographic characteristics are important, OPO resources and scope are important predictors of procurement. The findings strongly suggest that the ability of organizations to produce contexts for giving explains a substantial amount of variation in rates of one-shot altruism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eDNA Explorer</title>
+      <link>/app/edna/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/edna/</guid>
+      <description>&lt;p&gt;The eDNA Explorer&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -1767,17 +1788,6 @@ Having nearly instant feedback enables you to have your creativity flow without 
 &lt;h2 id=&#34;step-4-have-fun&#34;&gt;Step 4. Have fun&lt;/h2&gt;
 
 &lt;p&gt;The best way to learn something is to play with it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ocean Health Index</title>
-      <link>/apps/ohi/</link>
-      <pubDate>Thu, 20 May 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/apps/ohi/</guid>
-      <description>&lt;p&gt;This article presents a social-organizational approach to explaining empirical variation in rates of altruism. The efforts of organizations are mostly responsible for much of the altruism seen today, and the substance of these efforts varies. Although research from social psychology and organizational studies suggests that altruistic action is sensitive to social context, the link between individual and organizational aspects of altruism has not been clearly articulated. In particular, our knowledge of “one-shot,” organizationally managed altruism is limited. I suggest that the factors of organizational resources, scope, and persistence are likely to generate higher rates of individual altruism in the absence of long-term relationships that encourage giving behavior. The approach is
-applied to the case of cadaveric organ procurement in the United States. The analysis highlights the central role of organ procurement organizations (OPOs). Quantitative analysis of OPO procurement rates shows that, while demographic characteristics are important, OPO resources and scope are important predictors of procurement. The findings strongly suggest that the ability of organizations to produce contexts for giving explains a substantial amount of variation in rates of one-shot altruism.&lt;/p&gt;
 </description>
     </item>
     
