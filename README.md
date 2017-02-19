@@ -10,7 +10,8 @@ Public website for EcoQuants.com
 cd ~/github/ecoquants.github.io/src
 hugo new -f 'yaml' -k app apps/edna.md
 ```
-  
+- carousel items
+  - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
 - Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
 - layouts/sharing-icons.html: fix social media icons with circles
   - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
@@ -35,6 +36,7 @@ hugo new -f 'yaml' -k app apps/edna.md
 - [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme): Port of Startbootstrap's Agency theme to Hugo
 - [Cover](http://wrapbootstrap.com/preview/WB05R798T): Responsive Multipurpose Template - Live Preview - WrapBootstrap
 - [Elate](http://themes.gohugo.io/hugo-elate-theme/)
+- [kieranhealy](https://github.com/kjhealy/kieranhealy.hugo): Duke academic with publications
 
 ## Done
 
