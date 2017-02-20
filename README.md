@@ -2,15 +2,19 @@
 
 Public website for EcoQuants.com
 
-## TODO
-- apps: list view & carousel
-  - 
-  
-```bash
-cd ~/github/ecoquants.github.io/src
-hugo new -f 'yaml' -k app apps/edna.md
+## Editing & Publishing
+
+```r
+# edit
+
+
+# publish
+blogdown::build_site()
 ```
-- carousel items
+
+## TODO
+- Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
+- carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
 - Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
 - layouts/sharing-icons.html: fix social media icons with circles

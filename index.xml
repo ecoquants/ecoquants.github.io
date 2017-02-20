@@ -2,86 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EcoQuants LLC</title>
-    <link>/index.xml</link>
+    <link>https://ecoquants.com/index.xml</link>
     <description>Recent content on EcoQuants LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Project setup for reproducible research</title>
-      <link>/2017/02/project-setup-for-reproducible-research/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/02/project-setup-for-reproducible-research/</guid>
-      <description>&lt;p&gt;In Github, setup issues, milestones, project. Eg &lt;a href=&#34;https://github.com/ecoquants/nrel-cables&#34;&gt;nrel-cables&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecoquants/nrel-cables/issues/10&#34;&gt;#10: setup Github site w/ issues, milestones and project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecoquants/nrel-cables/issues/11&#34;&gt;#11: setup Rmarkdown doc w/ Zotero refs to output: pdf, docx, html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;…more on this later…&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OHI Explorer</title>
-      <link>/app/ohi/</link>
-      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
-      
-      <guid>/app/ohi/</guid>
-      <description>&lt;p&gt;The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Water Quality Check</title>
-      <link>/app/wqck/</link>
-      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
-      
-      <guid>/app/wqck/</guid>
-      <description>&lt;p&gt;Potential point source pollutors can subscribe to app notifying them of rain forecasts for checking water quality.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>eDNA Explorer</title>
-      <link>/app/edna/</link>
-      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
-      
-      <guid>/app/edna/</guid>
-      <description>&lt;p&gt;The eDNA Explorer enables exploration in time, space and taxa.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EcoQuants website launched with free hosting and interactive visualizations</title>
-      <link>/2017/02/ecoquants-website-launched-with-free-hosting-and-interactive-visualizations/</link>
-      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/02/ecoquants-website-launched-with-free-hosting-and-interactive-visualizations/</guid>
-      <description>&lt;p&gt;The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;: hosting for free, and files versioned using git&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt;: R package to use the fast Hugo templating engine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bbest/hugo-theme-bootstrap4-blog&#34;&gt;hugo-theme-bootstrap4-blog&lt;/a&gt;: latest Bootstrap applied to Hugo template&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://v4-alpha.getbootstrap.com/examples/carousel/&#34;&gt;boostrap4-carousel&lt;/a&gt;: baked this into the index page&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;htmlwidgets&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;htmlwidgets&lt;/h2&gt;
-&lt;p&gt;Power of d3 JS ported to single R functions to provide interactive experience from static web files.&lt;/p&gt;
-&lt;p&gt;… more on this later…&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
+    <atom:link href="https://ecoquants.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ecoquants.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ecoquants.com/about/</guid>
       <description>
 
 &lt;p&gt;At EcoQuants, we see the world as a complex place. Sustainable management of our natural resources and personal health require a data-driven approach.&lt;/p&gt;
@@ -91,7 +24,7 @@
 &lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col-sm-2&#34;&gt;
-      &lt;img src=&#34;/images/logo_EcoQuants_black.svg&#34; width=&#34;100%&#34;&gt;
+      &lt;img src=&#34;https://ecoquants.com/images/logo_EcoQuants_black.svg&#34; width=&#34;100%&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6&#34;&gt;
 
@@ -110,7 +43,7 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
 
 &lt;h3 id=&#34;ben-best-phd&#34;&gt;Ben Best, PhD&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/ben.jpg&#34; width=300 style=&#34;float: right;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ecoquants.com/images/ben.jpg&#34; width=300 style=&#34;float: right;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I am an environmental data scientist with a strong background in marine spatial ecology. I have lectured extensively at UC Santa Barbara&amp;rsquo;s &lt;a href=&#34;http://www.bren.ucsb.edu/&#34;&gt;Bren School of Environmental Science &amp;amp; Management&lt;/a&gt;. I was the senior analyst for the &lt;a href=&#34;http://ohi-science.org&#34;&gt;Ocean Health Index&lt;/a&gt;, a research project housed at the &lt;a href=&#34;https://www.nceas.ucsb.edu/&#34;&gt;National Center for Ecological Analysis and Synthesis&lt;/a&gt;. I recently completed a PhD at Duke University in the &lt;a href=&#34;http://mgel.env.duke.edu&#34;&gt;Marine Geospatial Ecology Lab&lt;/a&gt;. I worked on &lt;a href=&#34;http://mgel.env.duke.edu/mget&#34;&gt;Marine Geospatial Ecology Tools&lt;/a&gt;, &lt;a href=&#34;http://seamap.env.duke.edu/&#34;&gt;OBIS-SEAMAP&lt;/a&gt; marine animal observation geoportal, &lt;a href=&#34;http://comlmaps.org/&#34;&gt;Census of Marine Life Map &amp;amp; Viz&lt;/a&gt; and &lt;a href=&#34;http://seamap.env.duke.edu/models/Duke-EC-GOM-2015/&#34;&gt;predictive distribution modeling of cetaceans&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -118,13 +51,13 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     
     <item>
       <title>Analysis</title>
-      <link>/analysis/</link>
+      <link>https://ecoquants.com/analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/analysis/</guid>
+      <guid>https://ecoquants.com/analysis/</guid>
       <description>&lt;p&gt;We are fans of the data science process as outlined by &lt;a href=&#34;http://hadley.nz/&#34;&gt;Hadley Wickham&lt;/a&gt; in &lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/r4ds_data-science.png&#34; width=400&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ecoquants.com/images/r4ds_data-science.png&#34; width=400&gt;&lt;/p&gt;
 
 &lt;p&gt;Usually most of the work in modeling is at the data preparation and interpretation stages, ie before and after modeling. I&amp;rsquo;m an advocate of efficient data ingestion (estimated &lt;a href=&#34;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0&#34;&gt;50-80%spent on collection and preparation of data&lt;/a&gt;), the iterative process of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exploratory_data_analysis&#34;&gt;exploratory data analysis&lt;/a&gt; and closing the gap between the starting with a question and sharing analytical results online and interactively to any audience.&lt;/p&gt;
 </description>
@@ -132,10 +65,10 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://ecoquants.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://ecoquants.com/projects/</guid>
       <description>
 
 &lt;h1 id=&#34;active&#34;&gt;Active&lt;/h1&gt;
@@ -160,15 +93,15 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     
     <item>
       <title>Training</title>
-      <link>/train/</link>
+      <link>https://ecoquants.com/train/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/train/</guid>
+      <guid>https://ecoquants.com/train/</guid>
       <description>
 
 &lt;p&gt;We teach at the intersection of spatial analysis, ecology and data science.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/bbest_swcarpentry.jpg&#34; alt=&#34;Teaching a [Software Carpentry workshop](http://remi-daigle.github.io/2016-04-15-UCSB/) at UCSB (2016-04).&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ecoquants.com/images/bbest_swcarpentry.jpg&#34; alt=&#34;Teaching a [Software Carpentry workshop](http://remi-daigle.github.io/2016-04-15-UCSB/) at UCSB (2016-04).&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 
