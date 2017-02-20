@@ -59,7 +59,7 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
   # logo
   brand = "EcoQuants"
   logo = "images/logo_EcoQuants_white.svg"
-  base_url = "https://ecoquants.com" # forced use of base_url, eg for layouts/partials/sharing-icons.html
+  base_url = "http://ecoquants.com" # forced use of base_url, eg for layouts/partials/sharing-icons.html
 
   # Site author
   author = "Ben Best"
