@@ -1,0 +1,19 @@
+---
+title: Project setup for reproducible research
+author: Ben Best
+date: '2017-02-20'
+categories:
+  - Reproducible Research
+tags:
+  - Github
+  - Rmarkdown
+draft: yes
+images: /2016/10/image.jpg
+---
+
+In Github, setup issues, milestones, project. Eg [nrel-cables](https://github.com/ecoquants/nrel-cables):
+
+* [#10: setup Github site w/ issues, milestones and project](https://github.com/ecoquants/nrel-cables/issues/10)
+* [#11: setup Rmarkdown doc w/ Zotero refs to output: pdf, docx, html](https://github.com/ecoquants/nrel-cables/issues/11)
+
+...more on this later...

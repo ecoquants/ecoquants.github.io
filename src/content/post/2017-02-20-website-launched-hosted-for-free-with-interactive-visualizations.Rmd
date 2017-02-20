@@ -1,0 +1,30 @@
+---
+title: 'EcoQuants website launched with free hosting and interactive visualizations'
+author: Ben Best
+date: '2017-02-19'
+categories:
+  - website
+tags:
+  - Rmarkdown
+  - Github
+  - blogdown
+  - bootstrap
+draft: yes
+images: /2016/10/image.jpg
+---
+
+The website EcoQuants is alive and ticking! Here's what I'm using in order to host it for free and still contain dynamic content:
+
+- [Github Pages](http://pages.github.com): hosting for free, and files versioned using git
+- [blogdown](https://github.com/rstudio/blogdown): R package to use the fast Hugo templating engine
+- [hugo-theme-bootstrap4-blog](https://github.com/bbest/hugo-theme-bootstrap4-blog): latest Bootstrap applied to Hugo template
+- [boostrap4-carousel](https://v4-alpha.getbootstrap.com/examples/carousel/): baked this into the index page
+
+## htmlwidgets
+
+Power of d3 JS ported to single R functions to provide interactive experience from static web files.
+
+... more on this later...
+
+
+
