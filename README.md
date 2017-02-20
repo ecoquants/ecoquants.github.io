@@ -38,6 +38,12 @@ hugo new -f 'yaml' -k app apps/edna.md
 - [Elate](http://themes.gohugo.io/hugo-elate-theme/)
 - [kieranhealy](https://github.com/kjhealy/kieranhealy.hugo): Duke academic with publications
 
+## References
+
+### Bootstrap
+
+- [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
 ## Done
 
 - favicon generated via http://realfavicongenerator.net

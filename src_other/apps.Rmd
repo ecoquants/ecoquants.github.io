@@ -22,20 +22,19 @@ library(webshot)
 #h = 744
 #w = 470
 #h = 330
-w = 940
-h = 660
-w = 1425
-h = 576
+w = 940 ; h = 660
+w = 1425; h = 576
+w = 1600; h = 600
 z = 1    # zoom
-r = 50     # resize, percent -> 248 × 186 pixels; want 470×330
+r = 100     # resize, percent -> 248 × 186 pixels; want 470×330
 #d = 2      # delay, seconds
-redo = F
+redo = T
 
 apps = read_csv('apps.csv') %>%
   mutate(
-    png = sprintf('images/app_%s_%dx%d.png', short, w, h))
+    png = sprintf('images/app_%s_%dx%d_r%03d_z%g.png', short, w, h, r, z))
 
-for (i in 1:nrow(apps)){
+for (i in 1:nrow(apps)){ # i=3
   a = apps[i,]
   if ((!file.exists(a$png) | redo) & a$publish){
     switch(a$do,
@@ -44,11 +43,11 @@ for (i in 1:nrow(apps)){
         resize(paste0(r,'%')) %>%
         shrink(),
     url = 
-      webshot(a$url_shiny, a$png, zoom=z, delay=a$delay_secs) %>%
+      webshot(a$url_shiny, a$png, zoom=z, delay=a$delay_secs, vwidth=w, vheight=h) %>%
         resize(paste0(r,'%')) %>%
         shrink(),
     dir = 
-      appshot(a$dir_shiny, a$png, zoom=z, delay=10) %>%
+      appshot(a$dir_shiny, a$png, zoom=z, delay=10, vwidth=w, vheight=h) %>%
         resize(paste0(r,'%')) %>%
         shrink())
   }
