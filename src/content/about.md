@@ -28,7 +28,7 @@ EcoQuants is currently a single-member Limited Liability Corporation (LLC). So I
 
 ### Ben Best, PhD
 
-<img src="/images/bbest_pic.jpg" width=200 style="float: right;">
+<img src="/images/ben.jpg" width=300 style="float: right;">
 
 I am an environmental data scientist with a strong background in marine spatial ecology. I have lectured extensively at UC Santa Barbara's [Bren School of Environmental Science & Management](http://www.bren.ucsb.edu/). I was the senior analyst for the [Ocean Health Index](http://ohi-science.org), a research project housed at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/). I recently completed a PhD at Duke University in the [Marine Geospatial Ecology Lab](http://mgel.env.duke.edu). I worked on [Marine Geospatial Ecology Tools](http://mgel.env.duke.edu/mget), [OBIS-SEAMAP](http://seamap.env.duke.edu/) marine animal observation geoportal, [Census of Marine Life Map & Viz](http://comlmaps.org/) and [predictive distribution modeling of cetaceans](http://seamap.env.duke.edu/models/Duke-EC-GOM-2015/).
 
