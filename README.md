@@ -6,10 +6,10 @@ Public website for EcoQuants.com
 
 ```r
 # edit
+serve_site()
 
-
-# publish
-blogdown::build_site()
+# publish - net::ERR_INSECURE_RESPONSE in Chrome?
+#blogdown::build_site()
 ```
 
 ## TODO
@@ -17,6 +17,7 @@ blogdown::build_site()
 - carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
 - Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
+- Add Follow Us: Twitter, Facebook, Github
 - layouts/sharing-icons.html: fix social media icons with circles
   - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
 - info@ecoquants.com: Gmail setup

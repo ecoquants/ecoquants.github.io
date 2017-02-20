@@ -1,7 +1,8 @@
 publishDir = ".."
 # Hugo variables
 #
-baseurl = "https://ecoquants.com/"
+test =  "https://ecoquants.com/"
+baseURL = "https://ecoquants.com/"
 languageCode = "en-us"
 title = "EcoQuants LLC"
 theme = "hugo-theme-bootstrap4-carousel"
@@ -58,6 +59,7 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
   # logo
   brand = "EcoQuants"
   logo = "images/logo_EcoQuants_white.svg"
+  base_url = "https://ecoquants.com" # forced use of base_url, eg for layouts/partials/sharing-icons.html
 
   # Site author
   author = "Ben Best"
