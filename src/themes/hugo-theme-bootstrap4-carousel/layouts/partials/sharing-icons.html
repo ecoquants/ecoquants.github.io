@@ -2,9 +2,29 @@
     <h4>{{ i18n "share" }}</h4>
     
     <nav class="nav sharing-icons">
-      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
-      <a class="nav-item" href="https://plus.google.com/share?url={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
-      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
-      <a class="nav-item" href="https://twitter.com/home?status={{ .Site.Params.base_url }}{{ .Permalink }}" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on Facebook">
+        <span class="fa-stack">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-facebook fa-stack-1x"></i>
+        </span>
+      </a>
+      <a class="nav-item" href="https://plus.google.com/share?url={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on Google+">
+        <span class="fa-stack">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-google-plus fa-stack-1x"></i>
+        </span>
+      </a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Site.Params.base_url }}{{ .Permalink }}" title="Share on LinkedIn">
+        <span class="fa-stack">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+      </a>
+      <a class="nav-item" href="https://twitter.com/home?status={{ .Site.Params.base_url }}{{ .Permalink }}" title="Tweet this">
+        <span class="fa-stack">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>
+      </a>
     </nav>
   </section>
