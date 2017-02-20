@@ -16,7 +16,18 @@ serve_site()
 - Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
 - carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
-- Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
+- implement Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
+
+  * bleve: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
+  * lunrjs:
+    * [hugo + gruntjs + lunrjs = <3 search](https://gist.github.com/sebz/efddfc8fdcb6b480f567)
+    * [Live Hugo Site search with Lunr.js - tips & tricks - Hugo Discussion](https://discuss.gohugo.io/t/live-hugo-site-search-with-lunr-js/2857)
+    * example with [hugo-theme-learn/search.html at master · matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn/blob/master/layouts/partials/search.html)
+      * [Search Results](https://github.com/matcornic/hugo-theme-learn/search?utf8=%E2%9C%93&q=lunr)
+      * [matcornic/hugo-theme-learn: Porting Grav Learn theme to Hugo](https://github.com/matcornic/hugo-theme-learn)
+    * [dgrigg/hugo-lunr: Node module for creating lunr.js search indexes for static Hugo sites](https://github.com/dgrigg/hugo-lunr)
+  * [How are you implementing site search - support - Hugo Discussion](https://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/4)
+
 - Add Follow Us: Twitter, Facebook, Github
 - layouts/sharing-icons.html: fix social media icons with circles
   - [CSS3 Circle Hover Effects for Font Awesome Icons](http://wpandsuch.com/css3-circle-hover-effects-for-font-awesome-icons/)
