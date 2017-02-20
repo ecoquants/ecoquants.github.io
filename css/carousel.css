@@ -3,18 +3,18 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;       /* xtra */
+  padding-top: 3rem;       /* extra */
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
 
 .container {
-  padding-top: 2rem;       /* xtra */
+  padding-top: 2rem;       /* extra */
 }
 
 .clients {
-  background-color: #5a5a5a;  /* xtra */
-  padding-bottom: 2rem;       /* xtra */
+  background-color: #5a5a5a;  /* extra */
+  padding-bottom: 2rem;       /* extra */
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -28,6 +28,10 @@ body {
 .carousel-caption {
   z-index: 10;
   bottom: 3rem;
+  background: rgba(0,0,0,0.5); /* extra */
+  padding-left: 20px;          /* extra */
+  padding-right: 20px;         /* extra */
+  border-radius: 5px;        /* extra */
 }
 
 /* Declare heights because of positioning of img element */
