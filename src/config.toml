@@ -29,28 +29,28 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
 # details.
 
 [[menu.navbar]]
-  name = "About"
-  url = "about"
+  Name = "About"
+  URL = "about/"
 
 [[menu.navbar]]
-  name = "Analysis"
-  url = "analysis"
+  Name = "Analysis"
+  URL = "analysis/"
 
 [[menu.navbar]]
-  name = "Apps"
-  url = "app"
+  Name = "Apps"
+  URL = "app/"
 
 [[menu.navbar]]
-  name = "Projects"
-  url = "projects"
+  Name = "Projects"
+  URL = "projects/"
 
 [[menu.navbar]]
-  name = "Training"
-  url = "train"
+  Name = "Training"
+  URL = "train/"
 
 [[menu.navbar]]
-  name = "Blog"
-  url = "post"
+  Name = "Blog"
+  URL = "post"
 
 # Theme variables
 #

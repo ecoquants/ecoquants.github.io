@@ -16,8 +16,9 @@
       {{ $currentPage := . }}
       {{ if .Site.Params.custom_navbar }}
         {{ range .Site.Menus.navbar }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
+          {{ $menu_url := .URL | absLangURL | printf "%s" }}
+          <li class='nav-item {{ if eq $menu_url $currentPage.URL }} active {{ end }}'>
+            <a class="nav-link" href="{{ $menu_url }}">{{ .Name }}</a>
           </li>
         {{ end }}
       {{ else }}

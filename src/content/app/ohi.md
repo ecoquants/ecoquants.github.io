@@ -8,7 +8,7 @@ description: "App developed for Ocean Health Index to explore a complex framewor
 draft: true
 images:
 - /2016/10/image.jpg
-img_card: images/app_ohi_card_400x400_150dpi.png
+img_card: images/app_ohi_card_300x300_100dpi.png
 img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1

@@ -102,7 +102,7 @@
 
 <div class="container">
   <h2>Portfolio</h2>
-  <div class="row">
+  <div class="row justify-content-md-center">
   <div class="card-deck">
   {{ range where .Data.Pages ".Params.img_card" "!=" nil }}
     {{ .Render "summary"}}

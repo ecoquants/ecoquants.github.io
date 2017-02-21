@@ -8,7 +8,7 @@ description: "Developed for Marine Biodiversity Observation Network (MBON; spons
 draft: true
 images:
 - /2016/10/image.jpg
-img_card: images/app_edna_card_400x400_150dpi.png
+img_card: images/app_edna_card_300x300_100dpi.png
 img_carousel: images/app_edna.png
 tags:
 - tag1

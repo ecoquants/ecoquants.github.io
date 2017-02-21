@@ -67,6 +67,7 @@ blogdown::serve_site()
 
 ## Done
 
+- nice cards vs carousel
 - favicon generated via http://realfavicongenerator.net
 - Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
 
