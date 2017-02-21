@@ -4,7 +4,7 @@ publishDir = ".."
 test =  "https://ecoquants.com/"
 baseURL = "https://ecoquants.com/"
 languageCode = "en-us"
-title = "EcoQuants LLC"
+title = "EcoQuants"
 theme = "hugo-theme-bootstrap4-carousel"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5

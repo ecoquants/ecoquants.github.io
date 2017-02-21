@@ -17,6 +17,8 @@ blogdown::serve_site()
 - make project content type, fix projects
 - add in_carousel for different content types: post, app, project
 - tweak app/single.html so not card
+- include meta Title in Apps and Blog list page for bookmarking
+- white selected nav item from menu
 - carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
 - implement Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
