@@ -1,5 +1,6 @@
 ---
-app_link: http://ohi-science.nceas.ucsb.edu/ohi-global/
+url_app: http://ohi-science.nceas.ucsb.edu/ohi-global/
+url_github: https://github.com/ohi-science/ohi-global/tree/app
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
@@ -7,7 +8,7 @@ description: "Developed for Ocean Health Index (OHI; housed at NCEAS) to explore
 draft: true
 images:
 - /2016/10/image.jpg
-img_screen: images/app_ohi-global.png
+img_card: images/app_ohi-global_h200.png
 img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1

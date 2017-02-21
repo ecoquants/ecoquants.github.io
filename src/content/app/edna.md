@@ -1,5 +1,6 @@
 ---
-app_link: https://ecoquants.shinyapps.io/edna-vis/
+url_app: https://ecoquants.shinyapps.io/edna-vis/
+url_github: https://github.com/marinebon/edna-vis
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
@@ -7,7 +8,7 @@ description: "Developed for Marine Biodiversity Observation Network (MBON; spons
 draft: true
 images:
 - /2016/10/image.jpg
-img_screen: images/app_edna.png
+img_card: images/app_edna_h200.png
 img_carousel: images/app_edna.png
 tags:
 - tag1

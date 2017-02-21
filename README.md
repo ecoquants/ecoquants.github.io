@@ -5,15 +5,17 @@ Public website for EcoQuants.com
 ## Editing & Publishing
 
 ```r
-# edit
-serve_site()
+# edit # setwd('src')
+blogdown::serve_site()
 
 # publish - net::ERR_INSECURE_RESPONSE in Chrome?
 #blogdown::build_site()
 ```
 
 ## TODO
-- Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
+- make project content type, fix projects
+- add in_carousel for different content types: post, app, project
+- tweak app/single.html so not card
 - carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
 - implement Search: [Site Search is Back! -- Bleve](http://www.blevesearch.com/news/Site-Search/)
@@ -63,6 +65,7 @@ serve_site()
 ## Done
 
 - favicon generated via http://realfavicongenerator.net
+- Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
 
 ## Edit Bootstrap CSS
 

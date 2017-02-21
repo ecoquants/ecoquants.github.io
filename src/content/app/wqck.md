@@ -1,5 +1,6 @@
 ---
-app_link: https://waterqualitycheck.com
+url_app: https://waterqualitycheck.com
+url_github: 
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
@@ -7,7 +8,7 @@ description: "Potential point source pollutors can subscribe to app notifying th
 draft: true
 images:
 - /2016/10/image.jpg
-img_screen: images/app_wqck.png
+img_card: images/app_wqck_h200.png
 img_carousel: images/app_wqck.png
 tags:
 - tag1

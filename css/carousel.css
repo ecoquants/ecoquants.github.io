@@ -1,3 +1,11 @@
+/* card style quick
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+.card-text {
+  font-size: 0.75rem;
+}
+
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
