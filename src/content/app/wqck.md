@@ -8,7 +8,7 @@ description: "Potential point source pollutors can subscribe to app notifying th
 draft: true
 images:
 - /2016/10/image.jpg
-img_card: images/app_wqck_h200.png
+img_card: images/app_wqck_card_400x400_150dpi.png
 img_carousel: images/app_wqck.png
 tags:
 - tag1

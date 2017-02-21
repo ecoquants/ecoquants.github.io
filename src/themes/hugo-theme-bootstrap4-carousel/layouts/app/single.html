@@ -1,13 +1,28 @@
 {{ define "main" }}
 
-  <section id="main">
-  <div>
-    <h1 id="title">{{ .Title }}</h1>
-    {{ .Render "summary"}}
-    </div>
-    
-    {{ .Content }}
-  </section>
+  <!--section id="main"-->
+
+<h1 id="title">{{ .Title }}</h1>
+
+<!--div class="row"-->
+  
+  
+  {{ .Render "summary"}}
+
+  <!--/section-->
+  <div class="card">
+    <p class="card-text">{{ .Content }}</p>
+    <div class="card-footer">
+    {{ if .Params.url_github }}
+      <a href='{{ .Params.url_github }}' class="btn btn-secondary"><i class="fa fa-github" aria-hidden="true"></i> Code &raquo;</a>
+    {{ end }}
+    <a href='{{ .Permalink }}' class="btn btn-secondary"><i class="fa fa-info" aria-hidden="true"></i> Info &raquo;</a>
+    <a href='{{ .Params.url_app }}' class="btn btn-secondary"><i class="fa fa-bolt" aria-hidden="true"></i> Live &raquo;</a>
+  </div>
+  </div>
+
+<!--/div-->
 
 {{ end }}
+
 
