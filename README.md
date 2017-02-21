@@ -13,6 +13,7 @@ blogdown::serve_site()
 ```
 
 ## TODO
+- add routing and siting apps
 - make project content type, fix projects
 - add in_carousel for different content types: post, app, project
 - tweak app/single.html so not card
