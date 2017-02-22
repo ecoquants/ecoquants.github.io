@@ -1,6 +1,6 @@
 ---
-url_app: http://ohi-science.nceas.ucsb.edu/ohi-global/
-url_github: https://github.com/ohi-science/ohi-global/tree/app
+url_app: https://ecoquants.shinyapps.io/ohi-global/
+url_github: https://github.com/bbest/ohi-global/tree/app
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00

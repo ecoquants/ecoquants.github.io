@@ -102,7 +102,7 @@
 
 <div class="container">
   <h2>Portfolio</h2>
-  <div class="row justify-content-md-center">
+  <div class="row">
   <div class="card-deck">
   {{ range where .Data.Pages ".Params.img_card" "!=" nil }}
     {{ .Render "summary"}}
@@ -166,26 +166,28 @@
     <aside class="clients">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <a href="http://www.nasa.gov">
-              <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nasa_white.png" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="http://www.noaa.gov">
-              <img src="{{ .Site.BaseURL | absLangURL }}images/logo_noaa_white.png" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="http://www.nrel.gov">
-              <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nrel_white.png" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="http://www.nceas.ucsb.edu">
-              <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nceas_white.png" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
+
+            <div class="col-lg-3" style="text-align:center;">
+              <a href="http://www.nasa.gov">
+                <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nasa_white.png" class="img-responsive img-centered" alt="">
+              </a>
+            </div>
+            <div class="col-lg-3" style="text-align:center;">
+              <a href="http://www.noaa.gov">
+                <img src="{{ .Site.BaseURL | absLangURL }}images/logo_noaa_white.png" class="img-responsive img-centered" alt="">
+              </a>
+            </div>
+            <div class="col-lg-3" style="text-align:center;">
+              <a href="http://www.nrel.gov">
+                <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nrel_white.png" class="img-responsive img-centered" alt="">
+              </a>
+            </div>
+            <div class="col-lg-3" style="text-align:center;">
+              <a href="http://www.nceas.ucsb.edu">
+                <img src="{{ .Site.BaseURL | absLangURL }}images/logo_nceas_white.png" class="img-responsive img-centered" alt="">
+              </a>
+            </div>
+          
         </div>
       </div>
     </aside>

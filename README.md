@@ -14,10 +14,15 @@ blogdown::serve_site()
 
 ## TODO
 - add routing and siting apps
+- center cards on mobile app
+- apply [Material Design for Bootstrap](https://mdbootstrap.com/components/cards/)
 - make project content type, fix projects
 - add in_carousel for different content types: post, app, project
 - tweak app/single.html so not card
 - include meta Title in Apps and Blog list page for bookmarking
+- great free imagery: https://www.pexels.com, https://unsplash.com
+  - [14 Amazingly Free Stock Photo Websites](https://www.entrepreneur.com/article/238646)
+  - [21 Amazing Sites With Breathtaking Free Stock Photos](https://blog.snappa.io/free-stock-photos/)
 - white selected nav item from menu
 - carousel items from archetype
   - https://github.com/spf13/spf13.com/blob/master/layouts/section/project.html
