@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Interactive Infographic</title>
+      <link>/app/infographic/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/infographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OHI Explorer</title>
       <link>/app/ohi/</link>
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
@@ -33,6 +42,24 @@
       <guid>/app/ohi/</guid>
       <description>&lt;p&gt;The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Routing Ships</title>
+      <link>/app/routing/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siting Offshore Wind</title>
+      <link>/app/siting/</link>
+      <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
+      
+      <guid>/app/siting/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -52,6 +79,8 @@
       
       <guid>/app/edna/</guid>
       <description>&lt;p&gt;The eDNA Explorer enables exploration in time, space and taxa.&lt;/p&gt;
+
+&lt;p&gt;Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries&lt;/p&gt;
 </description>
     </item>
     

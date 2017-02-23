@@ -4,7 +4,7 @@ url_github: https://github.com/marinebon/edna-vis
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "Developed for Marine Biodiversity Observation Network (MBON; sponsored by NOAA & NASA) to explore environmental DNA in space and time."
+description: "App for exploring environmental DNA in space and time."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -17,4 +17,6 @@ title: eDNA Explorer
 ---
 
 The eDNA Explorer enables exploration in time, space and taxa.
+
+Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries
 
