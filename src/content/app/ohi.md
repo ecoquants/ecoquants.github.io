@@ -4,7 +4,7 @@ url_github: https://github.com/bbest/ohi-global/tree/app
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "App developed for Ocean Health Index to explore a complex framework with many layers."
+description: "Explore the Ocean Health Index, from overall index to 10 goals to many input layers as flower plots, maps, charts or tables."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -13,7 +13,7 @@ img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1
 - tag2
-title: OHI Explorer
+title: Ocean Health Index
 ---
 
 The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.

@@ -4,7 +4,7 @@ url_github: https://github.com/marinebon/cr-metrics
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "Interactive infographic of coral reef fish, linked to time series plots."
+description: "Click on species icons representative of taxanomic groups in a coral reef ecosystem, and see a time series plot showing their status."
 draft: true
 images:
 - /2016/10/image.jpg

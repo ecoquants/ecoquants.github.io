@@ -11,7 +11,7 @@
 
   <!--/section-->
   <div class="card">
-    <p class="card-text">{{ .Content }}</p>
+    <p class="card-text"><p class="card-text">{{ .Params.description }}</p>
     <div class="card-footer">
     {{ if .Params.url_github }}
       <a href='{{ .Params.url_github }}' class="btn btn-secondary"><i class="fa fa-github" aria-hidden="true"></i> Code &raquo;</a>
@@ -21,6 +21,7 @@
   </div>
 
 <!--/div-->
+<!-- {{ .Content }} -->
 
 {{ end }}
 

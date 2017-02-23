@@ -4,7 +4,7 @@ url_github: https://github.com/bbest/siting
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "App for siting offshore wind & minimize conflict with wildlife (eg birds, whales)."
+description: "Explore tradeoffs in space between OWED and bird sensitivities, and identify times to avoid migratory whales for harmful activities (eg pile driving)."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -13,5 +13,5 @@ img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1
 - tag2
-title: Siting Offshore Wind
+title: Site Offshore Wind Energy Development
 ---

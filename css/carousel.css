@@ -17,6 +17,9 @@ h2 {
   margin-bottom: 1rem;
 }
 
+.card-text {
+    padding-left: 0.5rem;
+}
 /* [Bootstrap Hover Image Gallery](https://miketricking.github.io/dist/) */
 .hovereffect {
 /*width:100%;

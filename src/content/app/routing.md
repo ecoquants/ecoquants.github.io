@@ -4,7 +4,7 @@ url_github: https://github.com/bbest/routing
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "App for routing ships to avoid striking whales."
+description: "Explore alternative routes trading off distance with avoidance of endangered whale hotspots."
 draft: true
 images:
 - /2016/10/image.jpg
@@ -13,5 +13,5 @@ img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1
 - tag2
-title: Routing Ships to Avoid Whale Strike
+title: Route Ships to Avoid Whale Strike
 ---
