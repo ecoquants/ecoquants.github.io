@@ -1,5 +1,5 @@
 ---
-url_app: https://waterqualitycheck.com
+url_app: http://waterqualitycheck.com
 url_github: 
 categories:
 - category
