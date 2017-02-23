@@ -4,7 +4,7 @@ url_github: https://github.com/bbest/routing
 categories:
 - category
 date: 2017-02-18T20:47:58-08:00
-description: "App for routing ships to avoid ship strike of whales."
+description: "App for routing ships to avoid striking whales."
 draft: true
 images:
 - /2016/10/image.jpg
