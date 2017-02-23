@@ -13,5 +13,5 @@ img_carousel: images/app_ohi-global_1425x576.png
 tags:
 - tag1
 - tag2
-title: Routing Ships
+title: Routing Ships to Avoid Whale Strike
 ---
