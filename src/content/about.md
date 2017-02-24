@@ -22,7 +22,7 @@ The EcoQuants logo is fashioned around the <a href="https://en.wikipedia.org/wik
 
 ## Status
 
-EcoQuants is currently a single-member Limited Liability Corporation (LLC). So I use the royal "we" to refer to myself, Ben Best. But that's just for the moment. We plan to expand in the future and will be hiring as contracts exceed my individual capacity.
+EcoQuants is currently a single-member Limited Liability Company (LLC). So I use the royal "we" to refer to myself, Ben Best. But that's just for the moment. We plan to expand in the future and will be hiring as contracts exceed my individual capacity.
 
 ## People
 
