@@ -10,8 +10,8 @@ theme = "hugo-theme-bootstrap4-carousel"
 paginate = 5
 # optionally override the site's footer with custom copyright text
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, content is under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC License</a>.'
-#googleAnalytics = "UA-123-45"
-#disqusShortname = "XYW"
+googleAnalytics = "UA-92775912-1"
+disqusShortname = "ecoquants"
 
 [permalinks]
   post = "/:year/:month/:title/"
