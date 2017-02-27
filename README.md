@@ -13,8 +13,9 @@ blogdown::serve_site()
 ```
 
 ## TODO
-- add routing and siting apps
-- center cards on mobile app
+- make cards -> icons with rollover image 
+  - [css - How to pre-load images used only on hover? - Webmasters Stack Exchange](http://webmasters.stackexchange.com/questions/2280/how-to-pre-load-images-used-only-on-hover)
+- interlace photos
 - apply [Material Design for Bootstrap](https://mdbootstrap.com/components/cards/)
 - make project content type, fix projects
 - add in_carousel for different content types: post, app, project
@@ -75,6 +76,9 @@ blogdown::serve_site()
 - nice cards vs carousel
 - favicon generated via http://realfavicongenerator.net
 - Apps: add linked Code button / github icon to source repo, if available (ie not yet w/ wqck)
+- add routing and siting apps
+- center cards on mobile app
+
 
 ## Edit Bootstrap CSS
 
