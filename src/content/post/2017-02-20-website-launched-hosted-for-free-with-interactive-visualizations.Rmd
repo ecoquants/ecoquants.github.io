@@ -24,6 +24,16 @@ The website EcoQuants is alive and ticking! Here's what I'm using in order to ho
 
 Power of d3 JS ported to single R functions to provide interactive experience from static web files.
 
+## hugo
+
+Included:
+- Google Analytics for website visitor tracking
+- Disqus for commenting
+
+TODO:
+- forms for contact
+- search 
+
 ... more on this later...
 
 

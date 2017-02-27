@@ -1,24 +1,26 @@
   
     <!--div class="col-sm-4">
     <div class="card" style="width: 20rem;"-->
-    <a href="{{ .Permalink }}">
-    <div class="card card-inverse hovereffect">
-      
-      <img class="card-img-top img-responsive" src='{{ .Site.BaseURL | absLangURL }}{{ .Params.img_card }}' alt="Card image">
-      <div class="card-img-overlay overlay">
-        <h4 class="card-title">{{ .Title }}</h4>
-        <p class="card-text">{{ .Params.description }}</p>
-        <!--p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p-->
+    <div class="col d-flex justify-content-center">
+      <a href="{{ .Permalink }}">
+      <div class="card card-inverse hovereffect">
+        
+        <img class="card-img-top img-responsive" src='{{ .Site.BaseURL | absLangURL }}{{ .Params.img_card }}' alt="Card image">
+        <div class="card-img-overlay overlay">
+          <h4 class="card-title">{{ .Title }}</h4>
+          <p class="card-text">{{ .Params.description }}</p>
+          <!--p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p-->
+        </div>
+        <!--div class="card-footer">
+          {{ if .Params.url_github }}
+            <a href='{{ .Params.url_github }}' class="btn btn-secondary"><i class="fa fa-github" aria-hidden="true"></i> Code &raquo;</a>
+          {{ end }}
+          <a href='{{ .Permalink }}' class="btn btn-secondary"><i class="fa fa-info" aria-hidden="true"></i> Info &raquo;</a>
+          <a href='{{ .Params.url_app }}' class="btn btn-secondary"><i class="fa fa-bolt" aria-hidden="true"></i> Live &raquo;</a>
+        </div-->
       </div>
-      <!--div class="card-footer">
-        {{ if .Params.url_github }}
-          <a href='{{ .Params.url_github }}' class="btn btn-secondary"><i class="fa fa-github" aria-hidden="true"></i> Code &raquo;</a>
-        {{ end }}
-        <a href='{{ .Permalink }}' class="btn btn-secondary"><i class="fa fa-info" aria-hidden="true"></i> Info &raquo;</a>
-        <a href='{{ .Params.url_app }}' class="btn btn-secondary"><i class="fa fa-bolt" aria-hidden="true"></i> Live &raquo;</a>
-      </div-->
+      </a>
     </div>
-    </a>
     <!--/div>
     </div-->
   

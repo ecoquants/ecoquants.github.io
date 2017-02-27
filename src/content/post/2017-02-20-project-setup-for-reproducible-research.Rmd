@@ -17,3 +17,5 @@ In Github, setup issues, milestones, project. Eg [nrel-cables](https://github.co
 * [#11: setup Rmarkdown doc w/ Zotero refs to output: pdf, docx, html](https://github.com/ecoquants/nrel-cables/issues/11)
 
 ...more on this later...
+
+- Kanban style setup
