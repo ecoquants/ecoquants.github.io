@@ -155,10 +155,10 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     
     <item>
       <title>Analysis</title>
-      <link>/analysis/</link>
+      <link>/service/analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/analysis/</guid>
+      <guid>/service/analysis/</guid>
       <description>&lt;p&gt;We are fans of the data science process as outlined by &lt;a href=&#34;http://hadley.nz/&#34;&gt;Hadley Wickham&lt;/a&gt; in &lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/images/r4ds_data-science.png&#34; width=400&gt;&lt;/p&gt;
@@ -168,11 +168,21 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>Development</title>
+      <link>/service/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>/service/development/</guid>
+      <description>&lt;p&gt;We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/</guid>
       <description>
 
 &lt;h1 id=&#34;active&#34;&gt;Active&lt;/h1&gt;
@@ -197,10 +207,10 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
     
     <item>
       <title>Training</title>
-      <link>/train/</link>
+      <link>/service/training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/train/</guid>
+      <guid>/service/training/</guid>
       <description>
 
 &lt;p&gt;We teach at the intersection of spatial analysis, ecology and data science.&lt;/p&gt;

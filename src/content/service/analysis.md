@@ -2,7 +2,6 @@
 title: "Analysis"
 ---
 
-
 We are fans of the data science process as outlined by [Hadley Wickham](http://hadley.nz/) in [R for Data Science](http://r4ds.had.co.nz/):
 
 <img src="/images/r4ds_data-science.png" width=400>

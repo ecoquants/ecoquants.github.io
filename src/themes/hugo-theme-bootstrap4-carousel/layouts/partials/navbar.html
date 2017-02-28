@@ -10,14 +10,16 @@
   </a>
   <div class="collapse navbar-collapse" id="navbarCollapse">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item {{ if .IsHome }}active{{ end }}">
+      <!-- li class="nav-item {{ if .IsHome }}active{{ end }}">
         <a class="nav-link" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
-      </li>
+      </li-->
       {{ $currentPage := . }}
+      {{ $currentPage_URL := .URL  | safeURL | relLangURL }}
       {{ if .Site.Params.custom_navbar }}
-        {{ range .Site.Menus.navbar }}
-          {{ $menu_url := .URL | absLangURL | printf "%s" }}
-          <li class='nav-item {{ if eq $menu_url $currentPage.URL }} active {{ end }}'>
+        {{ range .Site.Menus.navbar.ByWeight }}
+          <!--{{ $menu_url := .URL | absLangURL | printf "%s" }}-->
+          {{ $menu_url := .URL | safeURL | relLangURL }}
+          <li class='nav-item {{ if eq $menu_url $currentPage_URL }} active {{ end }}'>
             <a class="nav-link" href="{{ $menu_url }}">{{ .Name }}</a>
           </li>
         {{ end }}
