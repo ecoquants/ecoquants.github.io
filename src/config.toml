@@ -21,9 +21,9 @@ disqusShortname = "ecoquants"
 #  name = "Projects"
 #  url = "projects"
 
-#[[menu.sidebar]]
-#  name = "Blog"
-#  url = "blog"
+[[menu.sidebar]]
+  name = "Blog"
+  url = "blog"
 
 # custom navbar menu entry.   See the custom_navbar parameter below for
 # details.
@@ -43,15 +43,15 @@ disqusShortname = "ecoquants"
   URL = "about/"
   weight = 25
 
-[[menu.navbar]]
-  Name = "Projects"
-  URL = "project/"
-  weight = 30
+#[[menu.navbar]]
+#  Name = "Projects"
+#  URL = "project/"
+#  weight = 30
 
-[[menu.navbar]]
-  Name = "Blog"
-  URL = "post/"
-  weight = 40
+#[[menu.navbar]]
+#  Name = "Blog"
+#  URL = "post/"
+#  weight = 40
 
 # Theme variables
 #
