@@ -21,9 +21,9 @@ disqusShortname = "ecoquants"
 #  name = "Projects"
 #  url = "projects"
 
-[[menu.sidebar]]
-  name = "Blog"
-  url = "blog"
+#[[menu.sidebar]]
+#  name = "Blog"
+#  url = "blog"
 
 # custom navbar menu entry.   See the custom_navbar parameter below for
 # details.
