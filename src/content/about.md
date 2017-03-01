@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-At EcoQuants, we see the world as a complex place. Sustainable management of our natural resources and personal health require a data-driven approach.
+At EcoQuants, we see the world as a complex place. Sustainable management of our natural resources and personal health require a data driven approach.
 
 ## Philosophy
 
@@ -22,11 +22,13 @@ The EcoQuants logo is fashioned around the <a href="https://en.wikipedia.org/wik
 
 ## Status
 
-EcoQuants is currently a single-member Limited Liability Company (LLC). So I use the royal "we" to refer to myself, Ben Best. But that's just for the moment. We plan to expand in the future and will be hiring as contracts exceed my individual capacity.
+EcoQuants is a Limited Liability Company (LLC) as of February 2017. We're excited for the many possibilities ahead in applying sophisticated technology to data driven decision making!
 
 ## People
 
 ### Ben Best, PhD
+
+#### Environmental Data Scientist & Founder
 
 <img src="/images/ben.jpg" width=300 style="float: right;">
 
