@@ -16,7 +16,11 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/wqck/</guid>
-      <description>&lt;p&gt;Potential point source pollutors can subscribe to app notifying them of rain forecasts for checking water quality.&lt;/p&gt;
+      <description>&lt;p&gt;This idea was initiated by environmental attorney Jesse Swanhuyser, who sought to make it easier for potential point source pollutors to comply with California state water quality monitoring requirements, including 4 samples over the 6 month rainy season. The first major rain is the most important to capture, and subsequent sampling is ideally spaced out in time.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re working on developing a subscription and notification system such that 10-day precipitation forecasts are analyzed based on site-specific climatologies and reporting histories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://waterqualitycheck.com&#34;&gt;&lt;img src=&#34;/images/app_wqck_1600x600_r100_z1.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -66,7 +70,20 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/siting/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Siting offshore wind energy development to minimize impacts on birds in space and whales in time&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shiny.env.duke.edu/bbest/siting/&#34;&gt;&lt;img src=&#34;https://github.com/bbest/siting/raw/master/siting-wind.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale). Click a site on the map to see the cetaceans sensitivity over time, so that episodic events that impart high acoustic energy underwater (seismic air gun surveying and pile driving) can be scheduled at times when endangered whales, such as the North Atlantic Right Whale, are generally absent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For more details please see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Best &amp;amp; Halpin (&lt;em&gt;preprint&lt;/em&gt;) &lt;a href=&#34;https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2016-08-30.docx&#34;&gt;Winning Tradeoffs in Space and Time for Environmentally Responsible Offshore Wind Energy Development&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
