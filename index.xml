@@ -88,11 +88,21 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/siting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Siting offshore wind energy development to minimize impacts on birds in space and whales in time&lt;/strong&gt;&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;siting-offshore-wind-energy-development-to-minimize-impacts-on-birds-in-space-and-whales-in-time&#34;&gt;Siting offshore wind energy development to minimize impacts on birds in space and whales in time&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://shiny.env.duke.edu/bbest/siting/&#34;&gt;&lt;img src=&#34;https://github.com/bbest/siting/raw/master/siting-wind.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale). Click a site on the map to see the cetaceans sensitivity over time, so that episodic events that impart high acoustic energy underwater (seismic air gun surveying and pile driving) can be scheduled at times when endangered whales, such as the North Atlantic Right Whale, are generally absent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;summary-framework&#34;&gt;Summary Framework&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/siting_summary_w100_dpi100.png&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spatio-temporal tradeoff framework minimizing operational impacts on birds by siting OWED in space and episodic impacts on cetaceans by timing activities.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
 &lt;p&gt;For more details please see:&lt;/p&gt;
 

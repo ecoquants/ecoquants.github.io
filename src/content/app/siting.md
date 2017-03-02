@@ -16,12 +16,20 @@ tags:
 title: Site Offshore Wind Energy Development
 ---
 
-**Siting offshore wind energy development to minimize impacts on birds in space and whales in time**
+### Siting offshore wind energy development to minimize impacts on birds in space and whales in time
 
 [<img src="https://github.com/bbest/siting/raw/master/siting-wind.png" width="100%"/>](http://shiny.env.duke.edu/bbest/siting/)
 
 _Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale). Click a site on the map to see the cetaceans sensitivity over time, so that episodic events that impart high acoustic energy underwater (seismic air gun surveying and pile driving) can be scheduled at times when endangered whales, such as the North Atlantic Right Whale, are generally absent._
 
+
+### Summary Framework
+
+<img src="/images/siting_summary_w100_dpi100.png" width="100%"/>
+
+_Spatio-temporal tradeoff framework minimizing operational impacts on birds by siting OWED in space and episodic impacts on cetaceans by timing activities._
+
+### References
 
 For more details please see:
 
