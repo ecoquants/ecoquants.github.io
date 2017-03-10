@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-At EcoQuants, we see the world as a complex place. Sustainable management of our natural resources and personal health require a data driven approach.
+At EcoQuants, we see the world as a complex place. Management of our natural resources and sustainable human uses require a data driven approach.
 
 ## Philosophy
 
