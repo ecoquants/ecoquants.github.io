@@ -1,0 +1,35 @@
+---
+title: 'The answer is blowing in the (CA offshore) wind'
+author: Ben Best
+date: '2017-02-19'
+categories:
+  - website
+tags:
+  - offshore wind
+draft: yes
+images: /2016/10/image.jpg
+---
+
+- **setting the stage**
+
+  - 3 E's. triple bottom line (Possingham, Halpern...)
+  - floating technology viable.
+  - perfect compliment to solar storage with duck curve, dawn/dusk demand met by highest temp differential b/n land & sea at those times driving winds.
+  - possibility of compressed air storage
+
+- **fishing**. too conciliatory an approach. neglecting de facto reserve benefits. Klein benefits
+  - **bioeconomic modeling**
+
+- **fast track**. DRECP lessons. report. smart from the start 7-10 yr window.
+
+  - **consolidate surveys**. consolidate vs industry doing it. see Nowacek et al. And for floating don't need to survey as deeply.
+  
+  - **consolidate wildlife data**. adaptive monitoring. new Juli contact BOEM table for CA/ West coast. similar to PBR numbers of est take.
+  
+- **stakeholder feedback**
+  - **spatial commentary** threads
+  - **value sets** OHI style petal plot. incorporate uncertainty
+  
+
+  
+- 

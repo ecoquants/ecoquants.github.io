@@ -17,3 +17,6 @@ title: Ocean Health Index
 ---
 
 The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.
+
+[<img src="/images/app_ohi_usa-rollover.png" width="100%"/>](https://ecoquants.shinyapps.io/ohi-global)
+_Application to explore the Ocean Health Index here with mouse over the United States, revealing the country's flower plot and overall score in the upper right._

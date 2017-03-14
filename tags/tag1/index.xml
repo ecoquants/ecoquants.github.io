@@ -51,6 +51,9 @@
       
       <guid>/app/ohi/</guid>
       <description>&lt;p&gt;The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ecoquants.shinyapps.io/ohi-global&#34;&gt;&lt;img src=&#34;/images/app_ohi_usa-rollover.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;
+&lt;em&gt;Application to explore the Ocean Health Index here with mouse over the United States, revealing the country&amp;rsquo;s flower plot and overall score in the upper right.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
