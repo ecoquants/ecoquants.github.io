@@ -63,7 +63,20 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/routing/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bbest/consmap/master/img/routing_animation.gif&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Routes between starting and end points are selectable from the drop-down selections as ports and major entry points to British Columbia, or arbitrary start and end points can be entered. Routes are then visible in the interactive map based on varying levels of avoidance of marine mammal hotspots as derived by summing across marine mammal density surfaces and weighting by conservation concern. This uses a prescriptive least-cost routing approach rather than post-hoc evaluation of proposed routes.&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;For more details please see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -91,7 +104,7 @@
 &lt;p&gt;For more details please see:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Best &amp;amp; Halpin (&lt;em&gt;preprint&lt;/em&gt;) &lt;a href=&#34;https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2016-08-30.docx&#34;&gt;Winning Tradeoffs in Space and Time for Environmentally Responsible Offshore Wind Energy Development&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Best &amp;amp; Halpin (&lt;em&gt;preprint&lt;/em&gt;) &lt;a href=&#34;https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2017-03-18.pdf&#34;&gt;Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs in space and time&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;

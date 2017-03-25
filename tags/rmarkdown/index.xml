@@ -33,17 +33,7 @@
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/02/ecoquants-website-launched-with-free-hosting-and-interactive-visualizations/</guid>
-      <description>&lt;!-- BLOGDOWN-HEAD --&gt;
-
-
-
-&lt;!-- /BLOGDOWN-HEAD --&gt;
-
-&lt;!-- BLOGDOWN-BODY-BEFORE --&gt;
-
-&lt;!-- /BLOGDOWN-BODY-BEFORE --&gt;
-
-&lt;p&gt;The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:&lt;/p&gt;
+      <description>&lt;p&gt;The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;: hosting for free, and files versioned using git&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt;: R package to use the fast Hugo templating engine&lt;/li&gt;

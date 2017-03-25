@@ -33,7 +33,7 @@ _Spatio-temporal tradeoff framework minimizing operational impacts on birds by s
 
 For more details please see:
 
-- Best & Halpin (_preprint_) [Winning Tradeoffs in Space and Time for Environmentally Responsible Offshore Wind Energy Development](https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2016-08-30.docx)
+- Best & Halpin (_preprint_) [Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs in space and time](https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2017-03-18.pdf)
 
 - Best (2016) [Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks](http://dukespace.lib.duke.edu/dspace/handle/10161/12101) PhD Dissertation from Duke University
 
