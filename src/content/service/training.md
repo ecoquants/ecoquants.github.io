@@ -19,8 +19,9 @@ We teach at the intersection of spatial analysis, ecology and data science.
 
 ## Workshops
 
+- [Geospatial Analysis using R](https://jsta.github.io/2017-09-27-LBNL/) Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017
 - [Network Science Boot Camp](http://networkscience.igert.ucsb.edu/events/network-science-boot-camp) at UCSB, September 2016
-- [Software Carpentry Workshop](http://remi-daigle.github.io/2016-04-15-UCSB/) at UCSB, April 2016
+- [Reproducible Research using R](http://remi-daigle.github.io/2016-04-15-UCSB/) Software Carpentry workshop at UCSB, April 2016
 * [NEON Hackathon: spatio-temporal data lesson-building](http://www.neonscience.org/updates-events/events/hackathon-spatio-temporal-data-lesson-building): created  [visualization lessons](http://data-lessons.github.io/NEON-R-Make-Pretty-Maps-Plots/posts/viz.html), at Boulder CO, October 2015
 
 ## Community
