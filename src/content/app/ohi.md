@@ -20,3 +20,8 @@ The Ocean Health Index is a complex framework with many goals, dimensions and la
 
 [<img src="/images/app_ohi_usa-rollover.png" width="100%"/>](https://ecoquants.shinyapps.io/ohi-global)
 _Application to explore the Ocean Health Index here with mouse over the United States, revealing the country's flower plot and overall score in the upper right._
+
+For more on the Ocean Health Index, please visit:
+
+- [OHI-science.org](http://ohi-science.org/): open data science tools and resources
+- [OceanHealthIndex.org](http://www.oceanhealthindex.org): public website of results
