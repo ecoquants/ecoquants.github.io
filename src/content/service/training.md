@@ -19,6 +19,7 @@ We teach at the intersection of spatial analysis, ecology and data science.
 
 ## Workshops
 
+- [Reproducible Science with R, RStudio, and GitHub](https://jules32.github.io/2017-11-30-MBARI/) at Monterey Bay Aquarium Research Institute (MBARI), November 2017
 - [Geospatial Analysis using R](https://jsta.github.io/2017-09-27-LBNL/) Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017
 - [Network Science Boot Camp](http://networkscience.igert.ucsb.edu/events/network-science-boot-camp) at UCSB, September 2016
 - [Reproducible Research using R](http://remi-daigle.github.io/2016-04-15-UCSB/) Software Carpentry workshop at UCSB, April 2016
