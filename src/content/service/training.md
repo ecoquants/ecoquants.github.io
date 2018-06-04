@@ -17,7 +17,8 @@ We teach at the intersection of spatial analysis, ecology and data science.
 - Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010
 - Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009
 
-## Workshops
+
+## Workshops.
 
 - [Reproducible Science with R, RStudio, and GitHub](https://jules32.github.io/2017-11-30-MBARI/) at Monterey Bay Aquarium Research Institute (MBARI), November 2017
 - [Geospatial Analysis using R](https://jsta.github.io/2017-09-27-LBNL/) Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017
