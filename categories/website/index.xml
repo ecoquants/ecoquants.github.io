@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on EcoQuants</title>
-    <link>/categories/website/index.xml</link>
+    <link>/categories/website/</link>
     <description>Recent content in Website on EcoQuants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    <atom:link href="/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>EcoQuants website launched with free hosting and interactive visualizations</title>
@@ -15,24 +18,8 @@
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/02/ecoquants-website-launched-with-free-hosting-and-interactive-visualizations/</guid>
-      <description>&lt;p&gt;The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;: hosting for free, and files versioned using git&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt;: R package to use the fast Hugo templating engine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bbest/hugo-theme-bootstrap4-blog&#34;&gt;hugo-theme-bootstrap4-blog&lt;/a&gt;: latest Bootstrap applied to Hugo template&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://v4-alpha.getbootstrap.com/examples/carousel/&#34;&gt;boostrap4-carousel&lt;/a&gt;: baked this into the index page&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;htmlwidgets&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;htmlwidgets&lt;/h2&gt;
-&lt;p&gt;Power of d3 JS ported to single R functions to provide interactive experience from static web files.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;hugo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;hugo&lt;/h2&gt;
-&lt;p&gt;Included: - Google Analytics for website visitor tracking - Disqus for commenting&lt;/p&gt;
-&lt;p&gt;TODO: - forms for contact - search&lt;/p&gt;
-&lt;p&gt;… more on this later…&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:
+ Github Pages: hosting for free, and files versioned using git blogdown: R package to use the fast Hugo templating engine hugo-theme-bootstrap4-blog: latest Bootstrap applied to Hugo template boostrap4-carousel: baked this into the index page  htmlwidgets Power of d3 JS ported to single R functions to provide interactive experience from static web files.</description>
     </item>
     
   </channel>

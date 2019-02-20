@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on EcoQuants</title>
-    <link>/service/index.xml</link>
+    <link>/service/</link>
     <description>Recent content in Services on EcoQuants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    <atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Analysis</title>
@@ -15,12 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/analysis/</guid>
-      <description>&lt;p&gt;We are fans of the data science process as outlined by &lt;a href=&#34;http://hadley.nz/&#34;&gt;Hadley Wickham&lt;/a&gt; in &lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/r4ds_data-science.png&#34; width=400&gt;&lt;/p&gt;
-
-&lt;p&gt;Usually most of the work in modeling is at the data preparation and interpretation stages, ie before and after modeling. I&amp;rsquo;m an advocate of efficient data ingestion (estimated &lt;a href=&#34;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0&#34;&gt;50-80%spent on collection and preparation of data&lt;/a&gt;), the iterative process of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exploratory_data_analysis&#34;&gt;exploratory data analysis&lt;/a&gt; and closing the gap between the starting with a question and sharing analytical results online and interactively to any audience.&lt;/p&gt;
-</description>
+      <description>We are fans of the data science process as outlined by Hadley Wickham in R for Data Science:
+Usually most of the work in modeling is at the data preparation and interpretation stages, ie before and after modeling. I&amp;rsquo;m an advocate of efficient data ingestion (estimated 50-80%spent on collection and preparation of data), the iterative process of exploratory data analysis and closing the gap between the starting with a question and sharing analytical results online and interactively to any audience.</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/development/</guid>
-      <description>&lt;p&gt;We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.&lt;/p&gt;
-</description>
+      <description>We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.</description>
     </item>
     
     <item>
@@ -39,47 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/training/</guid>
-      <description>
-
-&lt;p&gt;We teach at the intersection of spatial analysis, ecology and data science.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/bbest_swcarpentry.jpg&#34; alt=&#34;Teaching a [Software Carpentry workshop](http://remi-daigle.github.io/2016-04-15-UCSB/) at UCSB (2016-04).&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;https://drive.google.com/open?id=0B99FvPajGTwJTGRYWEZJNGVWamM&#34;&gt;Geographic Information Systems&lt;/a&gt; (GIS) at UCSB, Spring 2016&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://ucsb-bren.github.io/env-info&#34;&gt;Environmental Informatics&lt;/a&gt; at UCSB, Winter 2016&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://ucsb-bren.github.io/esm296-4f/&#34;&gt;Advanced Topics in GIS&lt;/a&gt; at UCSB, Fall 2014+2015&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://bbest.github.io/landscape-ecology-labs/&#34;&gt;Landscape Ecology&lt;/a&gt; at UCSB, Winter 2015&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;https://drive.google.com/open?id=0B99FvPajGTwJYjVjUEx5WnRqV3YyeEhsVDBmZWg2YlI3NTh3&#34;&gt;Marine Geospatial Analysis&lt;/a&gt; at Duke, Spring 2012&lt;/li&gt;
-&lt;li&gt;Lab Instructor for Conservation Planning at UCSB, Winter 2011&lt;/li&gt;
-&lt;li&gt;Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010&lt;/li&gt;
-&lt;li&gt;Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;workshops&#34;&gt;Workshops.&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jules32.github.io/2017-11-30-MBARI/&#34;&gt;Reproducible Science with R, RStudio, and GitHub&lt;/a&gt; at Monterey Bay Aquarium Research Institute (MBARI), November 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jsta.github.io/2017-09-27-LBNL/&#34;&gt;Geospatial Analysis using R&lt;/a&gt; Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://networkscience.igert.ucsb.edu/events/network-science-boot-camp&#34;&gt;Network Science Boot Camp&lt;/a&gt; at UCSB, September 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://remi-daigle.github.io/2016-04-15-UCSB/&#34;&gt;Reproducible Research using R&lt;/a&gt; Software Carpentry workshop at UCSB, April 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.neonscience.org/updates-events/events/hackathon-spatio-temporal-data-lesson-building&#34;&gt;NEON Hackathon: spatio-temporal data lesson-building&lt;/a&gt;: created  &lt;a href=&#34;http://data-lessons.github.io/NEON-R-Make-Pretty-Maps-Plots/posts/viz.html&#34;&gt;visualization lessons&lt;/a&gt;, at Boulder CO, October 2015&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;community&#34;&gt;Community&lt;/h2&gt;
-
-&lt;p&gt;There are a lot of great data science / R / environmental informatics community meetups in the Santa Barbara area:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Santa-Barbara-R-Users-Group/&#34;&gt;Santa Barbara R Users Group&lt;/a&gt;: community R &lt;em&gt;~1x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Santa-Barbara-Data-Science/&#34;&gt;Santa Barbara Data Science&lt;/a&gt;: community big data &lt;em&gt;~1x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/DataScienceUCSB/&#34;&gt;Data Science at UCSB&lt;/a&gt;: UCSB undergraduate seminars &lt;em&gt;~2x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ucsb-data-science.github.io/&#34;&gt;UCSB Data Science&lt;/a&gt;: UCSB graduate learning &lt;em&gt;~1x/2 wk&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eco-data-science.github.io/&#34;&gt;Eco Data Science&lt;/a&gt;: Bren/NCEAS graduate learning  &lt;em&gt;~3x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We teach at the intersection of spatial analysis, ecology and data science.
+Courses  Instructor for Geographic Information Systems (GIS) at UCSB, Spring 2016 Instructor for Environmental Informatics at UCSB, Winter 2016 Instructor for Advanced Topics in GIS at UCSB, Fall 2014+2015 Instructor for Landscape Ecology at UCSB, Winter 2015 Instructor for Marine Geospatial Analysis at Duke, Spring 2012 Lab Instructor for Conservation Planning at UCSB, Winter 2011 Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010 Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009  Workshops.</description>
     </item>
     
   </channel>

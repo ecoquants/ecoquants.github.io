@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag2 on EcoQuants</title>
-    <link>/tags/tag2/index.xml</link>
+    <link>/tags/tag2/</link>
     <description>Recent content in Tag2 on EcoQuants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    <atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2017 20:47:58 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Check Water Quality</title>
@@ -15,12 +18,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/wqck/</guid>
-      <description>&lt;p&gt;This idea was initiated by environmental attorney Jesse Swanhuyser, who sought to make it easier for potential point source pollutors to comply with California state water quality monitoring requirements, including 4 samples over the 6 month rainy season. The first major rain is the most important to capture, and subsequent sampling is ideally spaced out in time.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re developing a subscription and notification system such that 10-day precipitation forecasts are analyzed based on site-specific climatologies and reporting histories.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://waterqualitycheck.com&#34;&gt;&lt;img src=&#34;/images/app_wqck_1600x600_r100_z1.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>This idea was initiated by environmental attorney Jesse Swanhuyser, who sought to make it easier for potential point source pollutors to comply with California state water quality monitoring requirements, including 4 samples over the 6 month rainy season. The first major rain is the most important to capture, and subsequent sampling is ideally spaced out in time.
+We&amp;rsquo;re developing a subscription and notification system such that 10-day precipitation forecasts are analyzed based on site-specific climatologies and reporting histories.</description>
     </item>
     
     <item>
@@ -29,10 +28,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/edna/</guid>
-      <description>&lt;p&gt;The eDNA Explorer enables exploration in time, space and taxa.&lt;/p&gt;
-
-&lt;p&gt;Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries&lt;/p&gt;
-</description>
+      <description>The eDNA Explorer enables exploration in time, space and taxa.
+Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries</description>
     </item>
     
     <item>
@@ -50,18 +47,10 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/ohi/</guid>
-      <description>&lt;p&gt;The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ecoquants.shinyapps.io/ohi-global&#34;&gt;&lt;img src=&#34;/images/app_ohi_usa-rollover.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;
-&lt;em&gt;Application to explore the Ocean Health Index here with mouse over the United States, revealing the country&amp;rsquo;s flower plot and overall score in the upper right.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For more on the Ocean Health Index, please visit:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ohi-science.org/&#34;&gt;OHI-science.org&lt;/a&gt;: open data science tools and resources&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oceanhealthindex.org&#34;&gt;OceanHealthIndex.org&lt;/a&gt;: public website of results&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.
+ Application to explore the Ocean Health Index here with mouse over the United States, revealing the country&amp;rsquo;s flower plot and overall score in the upper right.
+For more on the Ocean Health Index, please visit:
+ OHI-science.org: open data science tools and resources OceanHealthIndex.</description>
     </item>
     
     <item>
@@ -70,20 +59,7 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/routing/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bbest/consmap/master/img/routing_animation.gif&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Routes between starting and end points are selectable from the drop-down selections as ports and major entry points to British Columbia, or arbitrary start and end points can be entered. Routes are then visible in the interactive map based on varying levels of avoidance of marine mammal hotspots as derived by summing across marine mammal density surfaces and weighting by conservation concern. This uses a prescriptive least-cost routing approach rather than post-hoc evaluation of proposed routes.&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;For more details please see:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Routes between starting and end points are selectable from the drop-down selections as ports and major entry points to British Columbia, or arbitrary start and end points can be entered. Routes are then visible in the interactive map based on varying levels of avoidance of marine mammal hotspots as derived by summing across marine mammal density surfaces and weighting by conservation concern. This uses a prescriptive least-cost routing approach rather than post-hoc evaluation of proposed routes.</description>
     </item>
     
     <item>
@@ -92,30 +68,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/siting/</guid>
-      <description>
-
-&lt;h3 id=&#34;siting-offshore-wind-energy-development-to-minimize-impacts-on-birds-in-space-and-whales-in-time&#34;&gt;Siting offshore wind energy development to minimize impacts on birds in space and whales in time&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shiny.env.duke.edu/bbest/siting/&#34;&gt;&lt;img src=&#34;https://github.com/bbest/siting/raw/master/siting-wind.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale). Click a site on the map to see the cetaceans sensitivity over time, so that episodic events that impart high acoustic energy underwater (seismic air gun surveying and pile driving) can be scheduled at times when endangered whales, such as the North Atlantic Right Whale, are generally absent.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;summary-framework&#34;&gt;Summary Framework&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/siting_summary_w100_dpi100.png&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Spatio-temporal tradeoff framework minimizing operational impacts on birds by siting OWED in space and episodic impacts on cetaceans by timing activities.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;For more details please see:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Best &amp;amp; Halpin (&lt;em&gt;preprint&lt;/em&gt;) &lt;a href=&#34;https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2017-03-18.pdf&#34;&gt;Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs in space and time&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Siting offshore wind energy development to minimize impacts on birds in space and whales in time 
+Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale).</description>
     </item>
     
   </channel>

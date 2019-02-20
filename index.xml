@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EcoQuants</title>
-    <link>/index.xml</link>
+    <link>/</link>
     <description>Recent content on EcoQuants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
     <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Project setup for reproducible research</title>
@@ -16,16 +18,9 @@
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/02/project-setup-for-reproducible-research/</guid>
-      <description>&lt;p&gt;In Github, setup issues, milestones, project. Eg &lt;a href=&#34;https://github.com/ecoquants/nrel-cables&#34;&gt;nrel-cables&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecoquants/nrel-cables/issues/10&#34;&gt;#10: setup Github site w/ issues, milestones and project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecoquants/nrel-cables/issues/11&#34;&gt;#11: setup Rmarkdown doc w/ Zotero refs to output: pdf, docx, html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;…more on this later…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kanban style setup&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> In Github, setup issues, milestones, project. Eg nrel-cables:
+ #10: setup Github site w/ issues, milestones and project #11: setup Rmarkdown doc w/ Zotero refs to output: pdf, docx, html  …more on this later…
+ Kanban style setup  </description>
     </item>
     
     <item>
@@ -34,12 +29,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/wqck/</guid>
-      <description>&lt;p&gt;This idea was initiated by environmental attorney Jesse Swanhuyser, who sought to make it easier for potential point source pollutors to comply with California state water quality monitoring requirements, including 4 samples over the 6 month rainy season. The first major rain is the most important to capture, and subsequent sampling is ideally spaced out in time.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re developing a subscription and notification system such that 10-day precipitation forecasts are analyzed based on site-specific climatologies and reporting histories.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://waterqualitycheck.com&#34;&gt;&lt;img src=&#34;/images/app_wqck_1600x600_r100_z1.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>This idea was initiated by environmental attorney Jesse Swanhuyser, who sought to make it easier for potential point source pollutors to comply with California state water quality monitoring requirements, including 4 samples over the 6 month rainy season. The first major rain is the most important to capture, and subsequent sampling is ideally spaced out in time.
+We&amp;rsquo;re developing a subscription and notification system such that 10-day precipitation forecasts are analyzed based on site-specific climatologies and reporting histories.</description>
     </item>
     
     <item>
@@ -48,10 +39,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/edna/</guid>
-      <description>&lt;p&gt;The eDNA Explorer enables exploration in time, space and taxa.&lt;/p&gt;
-
-&lt;p&gt;Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries&lt;/p&gt;
-</description>
+      <description>The eDNA Explorer enables exploration in time, space and taxa.
+Client: Marine Biodiversity Observaion Network, NOAA National Marine Sanctuaries</description>
     </item>
     
     <item>
@@ -69,18 +58,10 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/ohi/</guid>
-      <description>&lt;p&gt;The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ecoquants.shinyapps.io/ohi-global&#34;&gt;&lt;img src=&#34;/images/app_ohi_usa-rollover.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;
-&lt;em&gt;Application to explore the Ocean Health Index here with mouse over the United States, revealing the country&amp;rsquo;s flower plot and overall score in the upper right.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For more on the Ocean Health Index, please visit:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ohi-science.org/&#34;&gt;OHI-science.org&lt;/a&gt;: open data science tools and resources&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oceanhealthindex.org&#34;&gt;OceanHealthIndex.org&lt;/a&gt;: public website of results&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>The Ocean Health Index is a complex framework with many goals, dimensions and layers. This application helps users visualize the many levels of information as maps, flower plots, time series and tables.
+ Application to explore the Ocean Health Index here with mouse over the United States, revealing the country&amp;rsquo;s flower plot and overall score in the upper right.
+For more on the Ocean Health Index, please visit:
+ OHI-science.org: open data science tools and resources OceanHealthIndex.</description>
     </item>
     
     <item>
@@ -89,20 +70,7 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/routing/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bbest/consmap/master/img/routing_animation.gif&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Routes between starting and end points are selectable from the drop-down selections as ports and major entry points to British Columbia, or arbitrary start and end points can be entered. Routes are then visible in the interactive map based on varying levels of avoidance of marine mammal hotspots as derived by summing across marine mammal density surfaces and weighting by conservation concern. This uses a prescriptive least-cost routing approach rather than post-hoc evaluation of proposed routes.&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;For more details please see:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Routes between starting and end points are selectable from the drop-down selections as ports and major entry points to British Columbia, or arbitrary start and end points can be entered. Routes are then visible in the interactive map based on varying levels of avoidance of marine mammal hotspots as derived by summing across marine mammal density surfaces and weighting by conservation concern. This uses a prescriptive least-cost routing approach rather than post-hoc evaluation of proposed routes.</description>
     </item>
     
     <item>
@@ -111,30 +79,8 @@
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/app/siting/</guid>
-      <description>
-
-&lt;h3 id=&#34;siting-offshore-wind-energy-development-to-minimize-impacts-on-birds-in-space-and-whales-in-time&#34;&gt;Siting offshore wind energy development to minimize impacts on birds in space and whales in time&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shiny.env.duke.edu/bbest/siting/&#34;&gt;&lt;img src=&#34;https://github.com/bbest/siting/raw/master/siting-wind.png&#34; width=&#34;100%&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale). Click a site on the map to see the cetaceans sensitivity over time, so that episodic events that impart high acoustic energy underwater (seismic air gun surveying and pile driving) can be scheduled at times when endangered whales, such as the North Atlantic Right Whale, are generally absent.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;summary-framework&#34;&gt;Summary Framework&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/siting_summary_w100_dpi100.png&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Spatio-temporal tradeoff framework minimizing operational impacts on birds by siting OWED in space and episodic impacts on cetaceans by timing activities.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;For more details please see:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Best &amp;amp; Halpin (&lt;em&gt;preprint&lt;/em&gt;) &lt;a href=&#34;https://github.com/bbest/siting/raw/master/docs/best-halpin_siting-wind_2017-03-18.pdf&#34;&gt;Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs in space and time&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Best (2016) &lt;a href=&#34;http://dukespace.lib.duke.edu/dspace/handle/10161/12101&#34;&gt;Data to Decision in a Dynamic Ocean: Robust Species Distribution Models and Spatial Decision Frameworks&lt;/a&gt; PhD Dissertation from Duke University&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Siting offshore wind energy development to minimize impacts on birds in space and whales in time 
+Sites on the map (10 km2 pixels) in the US Mid-Atlantic are colored according to the average utility depicted in the tradeoff plot to: maximize profitability to offshore wind energy development (net present value in US$, on normalized scale) on y-axis, and minimizing bird sensitivity on x-axis (based on 20 bird species distributions summed and weighted by sensitivity to collision and displacement, also on a normalized scale).</description>
     </item>
     
     <item>
@@ -143,24 +89,8 @@
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/02/ecoquants-website-launched-with-free-hosting-and-interactive-visualizations/</guid>
-      <description>&lt;p&gt;The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;: hosting for free, and files versioned using git&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt;: R package to use the fast Hugo templating engine&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bbest/hugo-theme-bootstrap4-blog&#34;&gt;hugo-theme-bootstrap4-blog&lt;/a&gt;: latest Bootstrap applied to Hugo template&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://v4-alpha.getbootstrap.com/examples/carousel/&#34;&gt;boostrap4-carousel&lt;/a&gt;: baked this into the index page&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;htmlwidgets&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;htmlwidgets&lt;/h2&gt;
-&lt;p&gt;Power of d3 JS ported to single R functions to provide interactive experience from static web files.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;hugo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;hugo&lt;/h2&gt;
-&lt;p&gt;Included: - Google Analytics for website visitor tracking - Disqus for commenting&lt;/p&gt;
-&lt;p&gt;TODO: - forms for contact - search&lt;/p&gt;
-&lt;p&gt;… more on this later…&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>The website EcoQuants is alive and ticking! Here’s what I’m using in order to host it for free and still contain dynamic content:
+ Github Pages: hosting for free, and files versioned using git blogdown: R package to use the fast Hugo templating engine hugo-theme-bootstrap4-blog: latest Bootstrap applied to Hugo template boostrap4-carousel: baked this into the index page  htmlwidgets Power of d3 JS ported to single R functions to provide interactive experience from static web files.</description>
     </item>
     
     <item>
@@ -169,40 +99,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>
-
-&lt;p&gt;At EcoQuants, we see the world as a complex place. Management of our natural resources and sustainable human uses require a data driven approach.&lt;/p&gt;
-
-&lt;h2 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h2&gt;
-
-&lt;div class=&#34;container&#34;&gt;
-  &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;col-sm-2&#34;&gt;
-      &lt;img src=&#34;/images/logo_EcoQuants_black.svg&#34; width=&#34;100%&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-sm-6&#34;&gt;
-
-The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensō&#34;&gt;&lt;strong&gt;ensō&lt;/strong&gt;&lt;/a&gt;, a symbol in Zen calligraphy representing the striving towards unity (a circle) and embrace of imperfection (incomplete circle). At EcoQuants we similarly seek to model complex systems in a holistic manner, and still work with inevitable uncertainty. A 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Quantitative_analyst&#34;&gt;&lt;strong&gt;quant&lt;/strong&gt;&lt;/a&gt; is a quantitative analyst who applies mathematical and statistical techniques to modeling systems, typically in the financial world. We&#39;re similarly applying these techniques to ecological problems, hence EcoQuants. (And do you see the &#34;Q&#34; in the enso logo?)
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
-
-&lt;p&gt;EcoQuants is a Limited Liability Company (LLC) as of February 2017. We&amp;rsquo;re excited for the many possibilities ahead in applying sophisticated technology to data driven decision making!&lt;/p&gt;
-
-&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
-
-&lt;h3 id=&#34;ben-best-phd&#34;&gt;Ben Best, PhD&lt;/h3&gt;
-
-&lt;h4 id=&#34;environmental-data-scientist-founder&#34;&gt;Environmental Data Scientist &amp;amp; Founder&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/ben.jpg&#34; width=300 style=&#34;float: right;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I am an environmental data scientist with a background in marine spatial ecology. Prior to founding EcoQuants, I lectured at UC Santa Barbara&amp;rsquo;s &lt;a href=&#34;http://www.bren.ucsb.edu/&#34;&gt;Bren School of Environmental Science &amp;amp; Management&lt;/a&gt; (see &lt;a href=&#34;http://ecoquants.com/service/training/#courses&#34;&gt;Training&lt;/a&gt;) and was the senior analyst for the &lt;a href=&#34;http://ohi-science.org&#34;&gt;Ocean Health Index&lt;/a&gt;, a research project housed at the &lt;a href=&#34;https://www.nceas.ucsb.edu/&#34;&gt;National Center for Ecological Analysis and Synthesis&lt;/a&gt;. In 2016, I completed a PhD at Duke University&amp;rsquo;s &lt;a href=&#34;http://mgel.env.duke.edu&#34;&gt;Marine Geospatial Ecology Lab&lt;/a&gt;. There I worked on &lt;a href=&#34;http://mgel.env.duke.edu/mget&#34;&gt;Marine Geospatial Ecology Tools&lt;/a&gt;, &lt;a href=&#34;http://seamap.env.duke.edu/&#34;&gt;OBIS-SEAMAP&lt;/a&gt; marine animal observation geoportal, &lt;a href=&#34;http://comlmaps.org/&#34;&gt;Census of Marine Life Map &amp;amp; Viz&lt;/a&gt; and &lt;a href=&#34;http://seamap.env.duke.edu/models/Duke-EC-GOM-2015/&#34;&gt;predictive distribution modeling of cetaceans&lt;/a&gt;. For more, see my &lt;a href=&#34;http://www.bdbest.org/cv&#34;&gt;CV&lt;/a&gt; and &lt;a href=&#34;http://benbestphd.com/&#34;&gt;benbestphd.com&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>At EcoQuants, we see the world as a complex place. Management of our natural resources and sustainable human uses require a data driven approach.
+Philosophy  The EcoQuants logo is fashioned around the ensō, a symbol in Zen calligraphy representing the striving towards unity (a circle) and embrace of imperfection (incomplete circle). At EcoQuants we similarly seek to model complex systems in a holistic manner, and still work with inevitable uncertainty.</description>
     </item>
     
     <item>
@@ -211,12 +109,8 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/analysis/</guid>
-      <description>&lt;p&gt;We are fans of the data science process as outlined by &lt;a href=&#34;http://hadley.nz/&#34;&gt;Hadley Wickham&lt;/a&gt; in &lt;a href=&#34;http://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/r4ds_data-science.png&#34; width=400&gt;&lt;/p&gt;
-
-&lt;p&gt;Usually most of the work in modeling is at the data preparation and interpretation stages, ie before and after modeling. I&amp;rsquo;m an advocate of efficient data ingestion (estimated &lt;a href=&#34;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?_r=0&#34;&gt;50-80%spent on collection and preparation of data&lt;/a&gt;), the iterative process of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exploratory_data_analysis&#34;&gt;exploratory data analysis&lt;/a&gt; and closing the gap between the starting with a question and sharing analytical results online and interactively to any audience.&lt;/p&gt;
-</description>
+      <description>We are fans of the data science process as outlined by Hadley Wickham in R for Data Science:
+Usually most of the work in modeling is at the data preparation and interpretation stages, ie before and after modeling. I&amp;rsquo;m an advocate of efficient data ingestion (estimated 50-80%spent on collection and preparation of data), the iterative process of exploratory data analysis and closing the gap between the starting with a question and sharing analytical results online and interactively to any audience.</description>
     </item>
     
     <item>
@@ -225,8 +119,7 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/development/</guid>
-      <description>&lt;p&gt;We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.&lt;/p&gt;
-</description>
+      <description>We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.</description>
     </item>
     
     <item>
@@ -235,26 +128,10 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/</guid>
-      <description>
-
-&lt;h1 id=&#34;active&#34;&gt;Active&lt;/h1&gt;
-
-&lt;h2 id=&#34;biodiversity-synthesis-and-visualization-marine-biodiversity-observation-network-mbon&#34;&gt;Biodiversity Synthesis and Visualization &amp;ndash; Marine Biodiversity Observation Network (MBON)&lt;/h2&gt;
-
-&lt;p&gt;The Marine Biodiversity Observation Network (MBON) is applying cutting edge observation techniques, such as environmental DNA (eDNA) and seascape analysis, to monitor life in the sea.&lt;/p&gt;
-
-&lt;p&gt;Sponsors: NASA, NOAA&lt;/p&gt;
-
-&lt;h2 id=&#34;submarine-cable-conflict-analysis-with-marine-renewables-national-renewable-energy-labs-nrel&#34;&gt;Submarine Cable Conflict Analysis with Marine Renewables &amp;ndash; National Renewable Energy Labs (NREL)&lt;/h2&gt;
-
-&lt;p&gt;Sponsors: NREL&lt;/p&gt;
-
-&lt;h1 id=&#34;historical&#34;&gt;Historical&lt;/h1&gt;
-
-&lt;h2 id=&#34;visualization-ocean-health-index-ohi&#34;&gt;Visualization &amp;ndash; Ocean Health Index (OHI)&lt;/h2&gt;
-
-&lt;p&gt;Sponsors: Conservation International, National Center for Analaysis &amp;amp; Synthesis&lt;/p&gt;
-</description>
+      <description>Active Biodiversity Synthesis and Visualization &amp;ndash; Marine Biodiversity Observation Network (MBON) The Marine Biodiversity Observation Network (MBON) is applying cutting edge observation techniques, such as environmental DNA (eDNA) and seascape analysis, to monitor life in the sea.
+Sponsors: NASA, NOAA
+Submarine Cable Conflict Analysis with Marine Renewables &amp;ndash; National Renewable Energy Labs (NREL) Sponsors: NREL
+Historical Visualization &amp;ndash; Ocean Health Index (OHI) Sponsors: Conservation International, National Center for Analaysis &amp;amp; Synthesis</description>
     </item>
     
     <item>
@@ -263,47 +140,8 @@ The EcoQuants logo is fashioned around the &lt;a href=&#34;https://en.wikipedia.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/training/</guid>
-      <description>
-
-&lt;p&gt;We teach at the intersection of spatial analysis, ecology and data science.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/bbest_swcarpentry.jpg&#34; alt=&#34;Teaching a [Software Carpentry workshop](http://remi-daigle.github.io/2016-04-15-UCSB/) at UCSB (2016-04).&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;https://drive.google.com/open?id=0B99FvPajGTwJTGRYWEZJNGVWamM&#34;&gt;Geographic Information Systems&lt;/a&gt; (GIS) at UCSB, Spring 2016&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://ucsb-bren.github.io/env-info&#34;&gt;Environmental Informatics&lt;/a&gt; at UCSB, Winter 2016&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://ucsb-bren.github.io/esm296-4f/&#34;&gt;Advanced Topics in GIS&lt;/a&gt; at UCSB, Fall 2014+2015&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;http://bbest.github.io/landscape-ecology-labs/&#34;&gt;Landscape Ecology&lt;/a&gt; at UCSB, Winter 2015&lt;/li&gt;
-&lt;li&gt;Instructor for &lt;a href=&#34;https://drive.google.com/open?id=0B99FvPajGTwJYjVjUEx5WnRqV3YyeEhsVDBmZWg2YlI3NTh3&#34;&gt;Marine Geospatial Analysis&lt;/a&gt; at Duke, Spring 2012&lt;/li&gt;
-&lt;li&gt;Lab Instructor for Conservation Planning at UCSB, Winter 2011&lt;/li&gt;
-&lt;li&gt;Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010&lt;/li&gt;
-&lt;li&gt;Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;workshops&#34;&gt;Workshops.&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jules32.github.io/2017-11-30-MBARI/&#34;&gt;Reproducible Science with R, RStudio, and GitHub&lt;/a&gt; at Monterey Bay Aquarium Research Institute (MBARI), November 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jsta.github.io/2017-09-27-LBNL/&#34;&gt;Geospatial Analysis using R&lt;/a&gt; Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://networkscience.igert.ucsb.edu/events/network-science-boot-camp&#34;&gt;Network Science Boot Camp&lt;/a&gt; at UCSB, September 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://remi-daigle.github.io/2016-04-15-UCSB/&#34;&gt;Reproducible Research using R&lt;/a&gt; Software Carpentry workshop at UCSB, April 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.neonscience.org/updates-events/events/hackathon-spatio-temporal-data-lesson-building&#34;&gt;NEON Hackathon: spatio-temporal data lesson-building&lt;/a&gt;: created  &lt;a href=&#34;http://data-lessons.github.io/NEON-R-Make-Pretty-Maps-Plots/posts/viz.html&#34;&gt;visualization lessons&lt;/a&gt;, at Boulder CO, October 2015&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;community&#34;&gt;Community&lt;/h2&gt;
-
-&lt;p&gt;There are a lot of great data science / R / environmental informatics community meetups in the Santa Barbara area:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Santa-Barbara-R-Users-Group/&#34;&gt;Santa Barbara R Users Group&lt;/a&gt;: community R &lt;em&gt;~1x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Santa-Barbara-Data-Science/&#34;&gt;Santa Barbara Data Science&lt;/a&gt;: community big data &lt;em&gt;~1x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/DataScienceUCSB/&#34;&gt;Data Science at UCSB&lt;/a&gt;: UCSB undergraduate seminars &lt;em&gt;~2x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ucsb-data-science.github.io/&#34;&gt;UCSB Data Science&lt;/a&gt;: UCSB graduate learning &lt;em&gt;~1x/2 wk&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eco-data-science.github.io/&#34;&gt;Eco Data Science&lt;/a&gt;: Bren/NCEAS graduate learning  &lt;em&gt;~3x/qrtr&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We teach at the intersection of spatial analysis, ecology and data science.
+Courses  Instructor for Geographic Information Systems (GIS) at UCSB, Spring 2016 Instructor for Environmental Informatics at UCSB, Winter 2016 Instructor for Advanced Topics in GIS at UCSB, Fall 2014+2015 Instructor for Landscape Ecology at UCSB, Winter 2015 Instructor for Marine Geospatial Analysis at Duke, Spring 2012 Lab Instructor for Conservation Planning at UCSB, Winter 2011 Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010 Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009  Workshops.</description>
     </item>
     
   </channel>
