@@ -17,8 +17,7 @@ We teach at the intersection of spatial analysis, ecology and data science.
 - Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010
 - Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009
 
-
-## Workshops.
+## Workshops
 
 - [Reproducible Science with R, RStudio, and GitHub](https://jules32.github.io/2017-11-30-MBARI/) at Monterey Bay Aquarium Research Institute (MBARI), November 2017
 - [Geospatial Analysis using R](https://jsta.github.io/2017-09-27-LBNL/) Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017
@@ -35,3 +34,9 @@ There are a lot of great data science / R / environmental informatics community 
 - [Data Science at UCSB](https://www.facebook.com/DataScienceUCSB/): UCSB undergraduate seminars _~2x/qrtr_
 - [UCSB Data Science](http://ucsb-data-science.github.io/): UCSB graduate learning _~1x/2 wk_
 - [Eco Data Science](https://eco-data-science.github.io/): Bren/NCEAS graduate learning  _~3x/qrtr_
+
+## Jobs
+
+- [Positions - Physiological Ecology](http://ecophys-jobs.org/positions.html)
+    - [Other Job Sites - ESA Physiological Ecology](http://esa-ecophys.org/joblinks.html)
+- [Job Listings | OpenChannels: Sustainable Ocean Management and Conservation](https://www.openchannels.org/jobs)
