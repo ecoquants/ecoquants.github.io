@@ -9,7 +9,7 @@ We teach at the intersection of spatial analysis, ecology and data science.
 ## Courses
 
 - Instructor for [Geographic Information Systems](https://drive.google.com/open?id=0B99FvPajGTwJTGRYWEZJNGVWamM) (GIS) at UCSB, Spring 2016
-- Instructor for [Environmental Informatics](http://ucsb-bren.github.io/env-info) at UCSB, Winter 2016
+- Instructor for [Environmental Informatics](http://ucsb-bren.github.io/ESM296-3W-2016) at UCSB, Winter 2016
 - Instructor for [Advanced Topics in GIS](http://ucsb-bren.github.io/esm296-4f/) at UCSB, Fall 2014+2015
 - Instructor for [Landscape Ecology](http://bbest.github.io/landscape-ecology-labs/) at UCSB, Winter 2015
 - Instructor for [Marine Geospatial Analysis](https://drive.google.com/open?id=0B99FvPajGTwJYjVjUEx5WnRqV3YyeEhsVDBmZWg2YlI3NTh3) at Duke, Spring 2012

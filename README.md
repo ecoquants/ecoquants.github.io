@@ -5,7 +5,9 @@ Public website for EcoQuants.com
 ## Editing & Publishing
 
 ```r
-# edit # setwd('src')
+setwd('src')
+
+# edit
 blogdown::serve_site()
 
 # publish - net::ERR_INSECURE_RESPONSE in Chrome?
@@ -13,6 +15,7 @@ blogdown::serve_site()
 ```
 
 ## TODO
+
 - make cards -> icons with rollover image 
   - [css - How to pre-load images used only on hover? - Webmasters Stack Exchange](http://webmasters.stackexchange.com/questions/2280/how-to-pre-load-images-used-only-on-hover)
 - interlace photos
