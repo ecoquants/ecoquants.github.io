@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EcoQuants</title>
@@ -7,29 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Blogdown</title>
-      <link>/tags/blogdown/</link>
-      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blogdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bootstrap</title>
-      <link>/tags/bootstrap/</link>
-      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
       <link>/tags/github/</link>
@@ -49,7 +27,7 @@
     </item>
     
     <item>
-      <title>Tag1</title>
+      <title>tag1</title>
       <link>/tags/tag1/</link>
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
@@ -58,11 +36,29 @@
     </item>
     
     <item>
-      <title>Tag2</title>
+      <title>tag2</title>
       <link>/tags/tag2/</link>
       <pubDate>Sat, 18 Feb 2017 20:47:58 -0800</pubDate>
       
       <guid>/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogdown</title>
+      <link>/tags/blogdown/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
       <description></description>
     </item>
     

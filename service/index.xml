@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on EcoQuants</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Services on EcoQuants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright>
-    
-	<atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Except where otherwise noted, content is under &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC License&lt;/a&gt;.</copyright><atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis</title>
       <link>/service/analysis/</link>
@@ -27,7 +23,7 @@ Usually most of the work in modeling is at the data preparation and interpretati
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/service/development/</guid>
-      <description>We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny &amp;reg; and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.</description>
+      <description>We rapidly develop interactive data driven web applications, particularly those with complexity in space, time and taxa. We employ technologies such as Shiny (R) and Jupyter (Python), as well as Google App and Earth Engines. We can facilitate hosting these applications in the cloud, and scale resources as needed.</description>
     </item>
     
     <item>
@@ -37,7 +33,7 @@ Usually most of the work in modeling is at the data preparation and interpretati
       
       <guid>/service/training/</guid>
       <description>We teach at the intersection of spatial analysis, ecology and data science.
-Courses  Instructor for Geographic Information Systems (GIS) at UCSB, Spring 2016 Instructor for Environmental Informatics at UCSB, Winter 2016 Instructor for Advanced Topics in GIS at UCSB, Fall 2014+2015 Instructor for Landscape Ecology at UCSB, Winter 2015 Instructor for Marine Geospatial Analysis at Duke, Spring 2012 Lab Instructor for Conservation Planning at UCSB, Winter 2011 Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010 Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009  Workshops  Reproducible Science with R, RStudio, and GitHub at Monterey Bay Aquarium Research Institute (MBARI), November 2017 Geospatial Analysis using R Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017 Network Science Boot Camp at UCSB, September 2016 Reproducible Research using R Software Carpentry workshop at UCSB, April 2016 NEON Hackathon: spatio-temporal data lesson-building: created visualization lessons, at Boulder CO, October 2015  Community There are a lot of great data science / R / environmental informatics community meetups in the Santa Barbara area:</description>
+Courses  Instructor for Geographic Information Systems (GIS) at UCSB, Spring 2016 Instructor for Environmental Informatics at UCSB, Winter 2016 Instructor for Advanced Topics in GIS at UCSB, Fall 2014+2015 Instructor for Landscape Ecology at UCSB, Winter 2015 Instructor for Marine Geospatial Analysis at Duke, Spring 2012 Lab Instructor for Conservation Planning at UCSB, Winter 2011 Teaching Assistant for Advanced Geospatial Analysis at Duke, Fall 2010 Teaching Assistant for Marine Geospatial Analysis at Duke, Spring 2009  Workshops  Reproducible Science with R, RStudio, and GitHub at Monterey Bay Aquarium Research Institute (MBARI), November 2017 Geospatial Analysis using R Data Carpentry workshop at Lawrence Berkeley National Lab, September 2017 Network Science Boot Camp at UCSB, September 2016 Reproducible Research using R Software Carpentry workshop at UCSB, April 2016   NEON Hackathon: spatio-temporal data lesson-building: created visualization lessons, at Boulder CO, October 2015  Community There are a lot of great data science / R / environmental informatics community meetups in the Santa Barbara area:</description>
     </item>
     
   </channel>
