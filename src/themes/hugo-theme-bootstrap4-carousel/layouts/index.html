@@ -151,9 +151,12 @@
 <div class="container">
   <h2 id="portfolio">Portfolio</h2>
   <div class="row">
+    
   <!--div class="card-deck"-->
-  {{ range where .Data.Pages ".Params.img_card" "!=" nil }}
-    {{ .Render "summary"}}
+  {{ range (where .Site.Pages "Section" "app") }}
+    {{ if ne .Kind "section" }}
+      {{ .Render "summary"}}
+    {{ end }}
   {{ end }}
   </div>
 </div>
