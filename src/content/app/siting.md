@@ -1,5 +1,5 @@
 ---
-url_app: http://shiny.env.duke.edu/bbest/siting/
+url_app: https://shiny.marinebon.app/siting/
 url_github: https://github.com/bbest/siting
 categories:
 - category
