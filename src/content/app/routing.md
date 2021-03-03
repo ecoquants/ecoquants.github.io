@@ -1,5 +1,5 @@
 ---
-url_app: http://shiny.env.duke.edu/bbest/routing
+url_app: https://shiny.marinebon.app/routing/
 url_github: https://github.com/bbest/routing
 categories:
 - category
